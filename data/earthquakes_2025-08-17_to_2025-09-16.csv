@@ -1,0 +1,911 @@
+id,time_utc,latitude,longitude,depth_km,magnitude,place,url,type
+us7000qwea,2025-09-15T23:21:44.834000,-21.6528,-68.4731,124.752,4.5,"52 km SSW of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwea,earthquake
+us7000qwdv,2025-09-15T21:03:22.980000,27.4283,52.4709,10.0,4.2,"43 km WSW of Mohr, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwdv,earthquake
+us7000qwdr,2025-09-15T20:56:13.172000,-20.0415,-69.1368,106.51,4.9,"63 km ENE of La Tirana, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwdr,earthquake
+us7000qwdp,2025-09-15T20:42:52.216000,51.5596,159.2227,35.0,4.3,"162 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwdp,earthquake
+us7000qwdj,2025-09-15T20:29:22.163000,-17.8408,-177.8029,639.511,4.9,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwdj,earthquake
+us7000qwdf,2025-09-15T20:07:17.051000,-17.4431,-70.8583,95.543,4.5,"21 km NNW of Locumba, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwdf,earthquake
+us7000qwcx,2025-09-15T19:00:06.794000,37.62,139.0321,183.43,4.4,"4 km S of Kamo, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwcx,earthquake
+us7000qwcl,2025-09-15T18:01:01.845000,19.2859,119.7149,10.0,4.5,"127 km NW of Davila, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwcl,earthquake
+us7000qwci,2025-09-15T17:15:42.675000,49.4638,159.0221,10.0,5.0,"247 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwci,earthquake
+us7000qwch,2025-09-15T16:34:36.629000,52.6922,160.7026,24.472,6.0,"145 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwch,earthquake
+us7000qwcf,2025-09-15T16:09:53.147000,53.4091,160.4397,56.944,4.4,"126 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwcf,earthquake
+us7000qway,2025-09-15T16:06:50.429000,52.7093,160.703,19.228,4.4,"145 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qway,earthquake
+us7000qwax,2025-09-15T15:32:33.859000,20.2901,146.6779,10.0,4.4,Mariana Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwax,earthquake
+us7000qwaq,2025-09-15T14:21:59.239000,79.5808,4.4279,10.0,4.7,"284 km WNW of Longyearbyen, Svalbard and Jan Mayen",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwaq,earthquake
+us7000qwac,2025-09-15T12:36:33.999000,16.6815,-94.8532,60.941,4.5,"5 km S of Lázaro Cárdenas, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwac,earthquake
+us7000qwa0,2025-09-15T10:34:43.743000,-33.4425,-71.9265,31.048,4.4,"32 km WNW of Cartagena, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwa0,earthquake
+us7000qw9u,2025-09-15T09:55:12.470000,34.4083,16.3452,10.0,5.1,"228 km SE of Birżebbuġa, Malta",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw9u,earthquake
+us7000qw9p,2025-09-15T09:16:21.775000,16.7191,-61.4232,60.74,5.0,"28 km NNE of Anse-Bertrand, Guadeloupe",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw9p,earthquake
+us7000qw9n,2025-09-15T08:42:10.524000,29.4109,104.0599,10.0,4.7,"4 km NE of Luocheng, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw9n,earthquake
+us7000qw9g,2025-09-15T07:39:58.666000,37.9846,38.472,10.0,4.1,"13 km WSW of Sincik, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw9g,earthquake
+us7000qw9c,2025-09-15T07:18:26.961000,53.2653,159.8065,66.346,4.4,"81 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw9c,earthquake
+pr2025258000,2025-09-15T04:52:15.450000,18.2528,-68.059,97.0,3.6,"51 km SE of Punta Cana, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025258000,earthquake
+us7000qw8z,2025-09-15T04:34:46.769000,38.5338,141.9747,62.107,4.4,"46 km ENE of Onagawa Chō, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw8z,earthquake
+us7000qw8t,2025-09-15T03:53:25.869000,36.6748,25.6615,15.464,4.4,"27 km SW of Amorgós, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw8t,earthquake
+us7000qw8g,2025-09-15T01:52:44.774000,-13.7217,-74.7966,94.514,5.0,"31 km WSW of Vilcanchos, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw8g,earthquake
+us7000qw8c,2025-09-15T01:42:37.447000,-27.9223,-72.1488,19.505,4.2,"154 km WNW of Vallenar, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw8c,earthquake
+us7000qw8d,2025-09-15T01:39:54.032000,53.1957,159.9787,59.455,5.1,"91 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw8d,earthquake
+us7000qw8b,2025-09-15T01:12:20.547000,53.2665,159.9725,56.812,4.6,"92 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw8b,earthquake
+us7000qw84,2025-09-15T00:06:34.400000,53.0329,160.1619,35.0,5.2,"102 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw84,earthquake
+us7000qw7q,2025-09-14T22:24:48.027000,12.9167,121.1242,109.848,4.3,"26 km W of Malamig, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw7q,earthquake
+us7000qw73,2025-09-14T18:57:29.195000,13.0391,121.2643,10.0,4.7,"12 km WSW of Leuteboro, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw73,earthquake
+us7000qw70,2025-09-14T18:41:52.446000,25.0699,122.8162,152.535,4.1,"69 km NNW of Yonakuni, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw70,earthquake
+us7000qw6z,2025-09-14T17:38:05.631000,51.8502,-173.6462,18.846,3.8,"54 km SE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw6z,earthquake
+us7000qw6t,2025-09-14T17:28:28.351000,53.5259,160.195,55.0,4.3,"116 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw6t,earthquake
+us7000qw6a,2025-09-14T15:18:40.041000,36.7806,75.429,10.0,4.5,"83 km NE of Barishal, Pakistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw6a,earthquake
+us7000qw69,2025-09-14T15:10:10.237000,53.0948,159.4222,74.084,4.3,"53 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw69,earthquake
+us7000qw66,2025-09-14T14:56:44.759000,20.8843,93.7363,57.003,4.6,"112 km W of Chauk, Burma (Myanmar)",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw66,earthquake
+us7000qw63,2025-09-14T14:49:44.566000,-2.8175,101.02,66.624,5.3,"93 km SSW of Sungai Penuh, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw63,earthquake
+us7000qw5f,2025-09-14T11:42:07.098000,51.6432,159.5006,35.0,4.7,"161 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw5f,earthquake
+us7000qw56,2025-09-14T11:11:51.105000,26.6066,92.1963,29.0,5.5,"10 km NNE of Khārupatia, India",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw56,earthquake
+us7000qw4u,2025-09-14T09:00:53.400000,52.0237,-176.4035,127.028,4.0,"22 km NE of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw4u,earthquake
+us7000qw4k,2025-09-14T07:12:17.489000,6.9494,-76.1732,50.192,5.4,"5 km N of Uramita, Colombia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw4k,earthquake
+us7000qw48,2025-09-14T05:17:58.916000,-6.9975,155.7577,39.19,4.7,"81 km SSE of Panguna, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw48,earthquake
+us7000qw47,2025-09-14T05:15:14.866000,51.1772,159.6753,10.0,4.6,"213 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw47,earthquake
+us7000qw44,2025-09-14T05:01:23.838000,51.4676,159.6091,25.09,4.7,"182 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw44,earthquake
+us7000qw42,2025-09-14T04:43:46.310000,29.5508,51.5171,10.0,4.6,"15 km WSW of Kāzerūn, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw42,earthquake
+us7000qw40,2025-09-14T04:36:20.424000,-6.2332,130.3865,135.559,4.5,"270 km WSW of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw40,earthquake
+us7000qw2i,2025-09-14T02:58:45.851000,-22.9178,-66.2392,220.479,4.7,"59 km WSW of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw2i,earthquake
+ci41291096,2025-09-14T02:02:41.750000,32.9476667,-116.4726667,7.62,3.58,"15 km NNE of Pine Valley, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41291096,earthquake
+us7000qw28,2025-09-14T01:05:51.645000,14.5908,-93.9196,35.0,4.4,"124 km SW of La Esperanza (El Zapotal), Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw28,earthquake
+us7000qw23,2025-09-13T23:59:54.189000,-1.8371,-81.2188,10.0,4.8,"51 km NW of Salinas, Ecuador",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw23,earthquake
+pr2025256000,2025-09-13T22:56:05.320000,19.1813,-64.4746,71.0,3.76,"99 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025256000,earthquake
+us7000qw1s,2025-09-13T22:29:57.797000,51.8529,-170.7586,36.454,4.5,"176 km SW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw1s,earthquake
+us7000qw0i,2025-09-13T17:17:16.608000,53.5627,160.1103,64.463,4.5,"113 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw0i,earthquake
+us7000qw0a,2025-09-13T16:08:26.981000,5.1596,123.1585,563.514,4.8,"162 km SW of Palimbang, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw0a,earthquake
+us7000qvzx,2025-09-13T15:05:42.551000,-4.1163,142.0223,108.626,4.9,"89 km W of Ambunti, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzx,earthquake
+us7000qvzw,2025-09-13T15:01:07.308000,16.8833,-85.8227,10.0,4.5,"48 km N of Savannah Bight, Honduras",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzw,earthquake
+us7000qvzv,2025-09-13T14:42:01.375000,53.5842,160.0476,64.689,4.1,"110 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzv,earthquake
+us7000qvzk,2025-09-13T12:52:26.803000,-24.1558,-66.8587,174.236,4.5,"55 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzk,earthquake
+us7000qvzj,2025-09-13T12:49:52.354000,-9.1932,124.0556,74.413,4.3,"36 km W of Pante Makasar, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzj,earthquake
+us7000qvzh,2025-09-13T12:37:27.715000,29.6049,51.3174,10.0,4.6,"32 km W of Kāzerūn, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzh,earthquake
+us7000qvzb,2025-09-13T11:49:36.358000,-17.6904,-65.8984,10.0,4.6,"11 km SSE of Cliza, Bolivia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvzb,earthquake
+us7000qvz5,2025-09-13T11:16:57.749000,-24.1806,-67.07,179.787,4.0,"76 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvz5,earthquake
+us7000qvz6,2025-09-13T11:08:25.584000,-59.5757,-26.0441,35.0,4.9,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvz6,earthquake
+us7000qvyu,2025-09-13T08:44:39.086000,34.382,23.8293,10.0,4.5,"55 km SSW of Kastrí, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvyu,earthquake
+us7000qvyf,2025-09-13T07:03:50.097000,51.2224,158.7606,35.0,5.2,"160 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvyf,earthquake
+us7000qvxp,2025-09-13T06:22:28.762000,53.197,160.4633,59.366,5.1,"123 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvxp,earthquake
+us7000qvxi,2025-09-13T05:23:29.205000,54.4995,-159.85,29.993,4.3,"102 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvxi,earthquake
+us7000qvxh,2025-09-13T04:46:16.789000,23.9627,122.5318,39.867,4.6,"73 km SW of Yonakuni, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvxh,earthquake
+us7000qvx7,2025-09-13T04:32:09.092000,-55.624,-28.0637,54.849,5.4,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvx7,earthquake
+us7000qvwe,2025-09-13T03:57:55.812000,-8.0686,-75.7796,10.0,4.9,"82 km E of Tocache, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvwe,earthquake
+us7000qvwa,2025-09-13T03:30:42.272000,52.3506,-175.2273,224.558,4.0,"72 km WNW of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvwa,earthquake
+us7000qvw5,2025-09-13T02:37:54.754000,53.1043,160.2938,39.465,7.4,"111 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvw5,earthquake
+us7000qvw4,2025-09-13T01:58:56.099000,51.5071,179.651,72.681,4.5,"260 km W of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvw4,earthquake
+us7000qvw1,2025-09-13T01:31:28.478000,52.0503,159.7233,31.654,4.9,"132 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvw1,earthquake
+us7000qvvx,2025-09-13T01:01:11.221000,-6.3434,104.5431,58.93,4.5,"128 km SW of Bandar Lampung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvx,earthquake
+us7000qvvt,2025-09-13T00:30:48.958000,51.9401,158.4153,73.932,4.3,"110 km S of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvt,earthquake
+us7000qvvp,2025-09-13T00:17:54.975000,32.867,141.7432,10.0,4.9,"285 km SSE of Katsuura, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvp,earthquake
+us7000qvvh,2025-09-12T23:49:37.989000,-24.2635,-67.0219,186.192,4.5,"71 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvh,earthquake
+us7000qvvg,2025-09-12T23:35:53.858000,14.7067,-94.245,10.0,4.6,"140 km SSW of Manuel Ávila Camacho (Ponte Duro), Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvg,earthquake
+us7000qvvb,2025-09-12T23:12:54.808000,-56.2637,-142.9512,10.0,5.3,Pacific-Antarctic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvb,earthquake
+us7000qvva,2025-09-12T23:11:47.772000,50.5073,157.6793,41.241,4.5,"111 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvva,earthquake
+us7000qvtx,2025-09-12T22:29:25.598000,52.2202,159.7401,35.0,4.9,"120 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvtx,earthquake
+us7000qvts,2025-09-12T21:50:27.089000,52.1555,159.7144,35.0,4.7,"123 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvts,earthquake
+us7000qvtp,2025-09-12T21:42:10.307000,29.0474,86.9103,10.0,5.0,"122 km N of Lobuche, Nepal",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvtp,earthquake
+us7000qvtm,2025-09-12T21:22:00.726000,-5.5391,132.0647,10.0,4.3,"76 km W of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvtm,earthquake
+us7000qvtn,2025-09-12T21:20:09.549000,51.6279,160.5505,10.0,4.5,"206 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvtn,earthquake
+ak025bq2lfn2,2025-09-12T21:08:56.456000,63.3893,-145.4335,8.6,3.8,"34 km NNE of Paxson, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025bq2lfn2,earthquake
+us7000qvtg,2025-09-12T20:53:05.047000,52.0445,159.8522,10.177,5.1,"139 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvtg,earthquake
+us7000qvse,2025-09-12T19:02:02.945000,36.546,71.126,198.006,4.2,"39 km WSW of Ashkāsham, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvse,earthquake
+us7000qvrp,2025-09-12T18:38:26.234000,-10.3564,120.4812,44.512,4.6,"80 km SSE of Waingapu, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvrp,earthquake
+us7000qvrf,2025-09-12T17:46:45.942000,-39.3896,-15.6077,10.0,5.6,Tristan da Cunha region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvrf,earthquake
+us7000qvrb,2025-09-12T17:36:02.854000,37.0714,75.3716,10.0,4.7,"102 km NE of Barishal, Pakistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvrb,earthquake
+us7000qvra,2025-09-12T17:29:44.049000,-10.721,165.1214,61.98,5.1,"73 km W of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvra,earthquake
+us7000qvqw,2025-09-12T15:57:45.098000,43.0896,146.6663,39.01,4.8,"78 km S of Shikotan, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqw,earthquake
+us7000qvpa,2025-09-12T14:13:22.418000,-52.8897,21.7826,10.0,4.6,south of Africa,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvpa,earthquake
+us7000qvnl,2025-09-12T09:47:47.721000,-17.8026,-178.587,564.825,4.4,"224 km E of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvnl,earthquake
+us7000qvnd,2025-09-12T08:58:00.887000,-21.7798,170.8323,174.862,4.7,"295 km SSE of Isangel, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvnd,earthquake
+us7000qvn4,2025-09-12T07:21:57.648000,-7.2674,125.9437,10.0,4.7,"137 km N of Manatutu, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvn4,earthquake
+us7000qvmt,2025-09-12T06:05:25.100000,-16.2776,167.1934,37.379,4.9,"30 km SW of Lakatoro, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvmt,earthquake
+us7000qvmp,2025-09-12T05:58:37.001000,-28.6032,-70.3065,102.166,4.3,"44 km E of Vallenar, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvmp,earthquake
+us7000qvmd,2025-09-12T04:50:35.974000,-16.3434,167.2667,10.0,5.0,"31 km SSW of Lakatoro, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvmd,earthquake
+us7000qvmb,2025-09-12T04:30:28.665000,-15.4976,-176.0103,374.646,4.2,"242 km WNW of Hihifo, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvmb,earthquake
+us7000qvm9,2025-09-12T04:30:06.197000,-23.9994,-67.1512,188.646,4.6,"88 km WNW of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvm9,earthquake
+us7000qvvn,2025-09-12T03:45:20.740000,51.822,-178.4966,10.0,3.6,"128 km W of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvvn,earthquake
+us7000qvly,2025-09-12T03:31:04.243000,-56.3186,-27.81,10.0,5.3,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvly,earthquake
+us7000qvlg,2025-09-12T01:38:39.282000,-22.94,-66.6606,222.2,4.5,"101 km WSW of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvlg,earthquake
+us7000qvl9,2025-09-12T00:42:10.130000,51.5005,16.266,9.361,4.5,"1 km S of Rudna, Poland",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvl9,earthquake
+us7000qvl5,2025-09-12T00:16:21.380000,-17.8718,-69.3557,158.015,4.4,"64 km E of Palca, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvl5,earthquake
+us7000qvit,2025-09-11T18:27:13.412000,51.5107,159.4531,10.0,4.7,"173 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvit,earthquake
+us7000qvis,2025-09-11T18:23:17.555000,-21.5741,-68.5493,136.006,4.0,"49 km SW of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvis,earthquake
+us7000qvin,2025-09-11T17:45:09.238000,51.6456,159.1928,37.957,4.6,"152 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvin,earthquake
+us7000qvh5,2025-09-11T16:05:52.808000,51.519,159.4702,54.174,4.4,"173 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvh5,earthquake
+us7000qvh1,2025-09-11T15:43:54.162000,-16.4588,167.3468,12.928,4.8,"40 km S of Lakatoro, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvh1,earthquake
+us7000qves,2025-09-11T10:40:40.533000,51.3877,159.5975,36.118,4.9,"190 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qves,earthquake
+us7000qveq,2025-09-11T10:08:11.849000,-3.7084,-103.0068,10.0,4.9,central East Pacific Rise,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qveq,earthquake
+us7000qvem,2025-09-11T09:43:35.559000,49.7853,155.8372,61.18,4.5,"101 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvem,earthquake
+us7000qvek,2025-09-11T09:26:53.136000,51.6024,159.4926,35.0,4.7,"165 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvek,earthquake
+us7000qvei,2025-09-11T09:06:26.568000,-5.542,131.6935,35.0,4.9,"117 km W of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvei,earthquake
+us7000qve1,2025-09-11T06:09:41.636000,15.1903,120.0337,67.378,4.6,"2 km SSE of Panan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qve1,earthquake
+us7000qvdz,2025-09-11T05:52:44.236000,51.4423,159.3778,35.0,4.8,"178 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvdz,earthquake
+us7000qvdq,2025-09-11T05:05:54.396000,51.4168,159.6228,35.508,4.8,"187 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvdq,earthquake
+us7000qvdj,2025-09-11T04:54:21.990000,51.5117,159.8403,10.0,5.3,"185 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvdj,earthquake
+us7000qvdn,2025-09-11T04:53:55.986000,51.4916,159.6916,10.0,5.0,"182 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvdn,earthquake
+ci41288688,2025-09-11T03:53:50.880000,35.1761667,-119.2336667,18.05,3.69,"20 km NE of Maricopa, CA",https://earthquake.usgs.gov/earthquakes/eventpage/ci41288688,earthquake
+us7000qvdb,2025-09-11T03:35:12.298000,51.5895,159.8937,10.0,5.2,"180 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvdb,earthquake
+us7000qvd7,2025-09-11T03:16:46.499000,34.365,16.4279,10.0,4.5,"237 km SE of Birżebbuġa, Malta",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvd7,earthquake
+us7000qvd6,2025-09-11T03:14:58.065000,-9.6564,112.8505,35.0,4.9,"160 km S of Dampit, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvd6,earthquake
+uu80117176,2025-09-10T23:57:47.450000,40.4801666666667,-109.704833333333,68.34,4.13,"10 km W of Maeser, Utah",https://earthquake.usgs.gov/earthquakes/eventpage/uu80117176,earthquake
+us7000qvch,2025-09-10T21:50:42.061000,-8.0866,115.5079,227.353,4.5,"41 km NNW of Bedugul, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvch,earthquake
+us7000qvcg,2025-09-10T21:46:15.159000,52.4452,158.7287,85.163,4.8,"58 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvcg,earthquake
+us7000qvav,2025-09-10T19:30:25.691000,52.9737,159.6205,69.704,5.0,"67 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvav,earthquake
+us7000qvan,2025-09-10T18:52:45.078000,-8.163,-75.8666,10.0,4.9,"72 km E of Tocache, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvan,earthquake
+us7000qvah,2025-09-10T18:36:29.961000,15.0535,108.1503,10.0,4.6,"32 km SSW of Trà My, Vietnam",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvah,earthquake
+us7000qvae,2025-09-10T18:03:57.987000,51.6411,159.3734,50.615,5.1,"158 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvae,earthquake
+us7000qv9y,2025-09-10T16:16:01.718000,22.4562,143.1007,170.522,4.6,"Volcano Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv9y,earthquake
+pr2025253002,2025-09-10T12:17:44.440000,19.0445,-64.5118,64.0,3.8,"84 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025253002,earthquake
+us7000qv74,2025-09-10T11:14:50.068000,-3.2753,142.5914,47.483,4.2,"30 km ESE of Aitape, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv74,earthquake
+us7000qv6w,2025-09-10T10:32:04.757000,52.8646,160.0532,76.702,4.5,"98 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv6w,earthquake
+us7000qv69,2025-09-10T06:51:25.132000,50.7386,157.1086,53.104,4.8,"69 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv69,earthquake
+us7000qv60,2025-09-10T05:14:21.141000,19.2136,-108.496,10.0,4.4,Revilla Gigedo Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv60,earthquake
+pr2025253001,2025-09-10T01:28:30.270000,19.1995,-64.4696,40.0,3.81,"101 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025253001,earthquake
+pr2025253000,2025-09-10T00:57:42.760000,19.0106,-64.473,64.0,3.86,"82 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025253000,earthquake
+us7000qv5m,2025-09-10T00:14:26.614000,-19.459,-66.7833,259.049,4.3,"61 km S of Challapata, Bolivia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv5m,earthquake
+us7000qv5j,2025-09-09T23:47:38.007000,18.8646,39.136,10.0,4.4,"156 km ENE of Tokār, Sudan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv5j,earthquake
+tx2025runsnd,2025-09-09T23:21:24.957000,31.635,-104.015,6.087,3.7,"40 km WSW of Mentone, Texas",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025runsnd,earthquake
+us7000qv5g,2025-09-09T22:58:27.814000,-8.3211,123.9132,154.785,4.3,"110 km NNW of Pante Makasar, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv5g,earthquake
+pr2025252001,2025-09-09T21:57:12.750000,19.2206,-64.5288,15.0,4.01,"102 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025252001,earthquake
+us7000qv51,2025-09-09T21:25:51.424000,51.4876,159.8179,10.0,5.2,"187 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv51,earthquake
+us7000qv4u,2025-09-09T20:56:17.263000,29.4648,130.6555,35.0,4.7,"86 km S of Koshima, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv4u,earthquake
+us7000qv4q,2025-09-09T20:36:58.850000,19.1435,39.2086,10.0,4.5,"175 km ENE of Tokār, Sudan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv4q,earthquake
+us7000qv4j,2025-09-09T20:01:33.984000,53.0001,161.5104,14.385,4.6,"193 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv4j,earthquake
+nc75235672,2025-09-09T19:40:59.180000,40.3318333333333,-124.926833333333,6.55,3.88,"54 km W of Petrolia, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75235672,earthquake
+us7000qv3g,2025-09-09T19:31:43.854000,42.4397,-126.6691,10.0,5.1,"181 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv3g,earthquake
+us7000qv3f,2025-09-09T19:31:03.620000,42.4765,-126.4478,10.0,4.4,"162 km W of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv3f,earthquake
+us7000qv3b,2025-09-09T19:03:50.968000,1.6315,127.2494,145.448,4.1,"85 km W of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv3b,earthquake
+us7000qv38,2025-09-09T19:02:04.025000,42.3804,-126.6499,10.0,4.9,"181 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv38,earthquake
+us7000qv1g,2025-09-09T17:35:20.701000,-24.3117,-67.1608,169.452,4.5,"86 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv1g,earthquake
+us7000qv1e,2025-09-09T17:35:15.219000,-29.5743,-71.9219,20.132,4.3,"70 km NW of Coquimbo, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv1e,earthquake
+us7000qv13,2025-09-09T16:55:45.339000,44.3185,39.5629,9.03,4.4,"12 km S of Khadyzhensk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv13,earthquake
+us7000qv0v,2025-09-09T16:31:29.733000,42.3833,-127.1084,13.367,3.6,"218 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv0v,earthquake
+hv74771322,2025-09-09T16:04:05.220000,19.4156666666667,-154.894833333333,37.96,3.63,"6 km SSE of Leilani Estates, Hawaii",https://earthquake.usgs.gov/earthquakes/eventpage/hv74771322,earthquake
+us7000qv0p,2025-09-09T15:46:03.971000,-2.8767,129.3512,17.698,4.6,"63 km NE of Masohi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv0p,earthquake
+us7000qv0n,2025-09-09T15:21:16.465000,-37.4921,78.1376,10.0,5.3,Mid-Indian Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qv0n,earthquake
+us7000quzy,2025-09-09T13:12:10.699000,26.5826,54.1507,14.806,4.5,"13 km ENE of Kīsh, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quzy,earthquake
+us7000quzw,2025-09-09T13:03:28.630000,-21.3372,-66.6289,221.643,4.9,"61 km SW of Atocha, Bolivia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quzw,earthquake
+us7000quzl,2025-09-09T11:47:09.266000,42.4299,-126.7031,10.0,4.3,"184 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quzl,earthquake
+us7000quzd,2025-09-09T10:53:28.119000,-9.8497,121.7697,35.0,4.7,"111 km S of Ende, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quzd,earthquake
+us7000quza,2025-09-09T10:35:22.352000,55.4528,166.3169,10.0,4.7,"255 km ESE of Ust’-Kamchatsk Staryy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quza,earthquake
+us7000quyj,2025-09-09T08:08:47.188000,18.4716,145.6729,200.226,4.4,"Pagan region, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quyj,earthquake
+nc75235342,2025-09-09T07:09:04.940000,40.2681666666667,-124.5825,5.74,3.63,"26 km WSW of Petrolia, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75235342,earthquake
+us7000quy7,2025-09-09T06:56:25.354000,11.1989,125.4286,99.29,4.8,"9 km NNW of Giporlos, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quy7,earthquake
+us7000quxl,2025-09-09T05:59:03.039000,42.43,-126.4932,11.239,4.9,"167 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quxl,earthquake
+us7000qux4,2025-09-09T04:33:38.040000,48.9432,155.9909,29.979,4.9,"192 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qux4,earthquake
+us7000qux0,2025-09-09T04:15:08.856000,42.3781,-126.5647,10.0,4.4,"174 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qux0,earthquake
+us7000quwy,2025-09-09T04:08:01.259000,42.3696,-126.4413,13.843,5.8,"165 km WSW of Port Orford, Oregon",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quwy,earthquake
+us7000quwj,2025-09-09T02:13:11.221000,51.3647,158.9373,46.055,4.5,"170 km E of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quwj,earthquake
+us7000quwh,2025-09-09T02:09:33.082000,6.2901,-82.4681,10.0,4.9,"197 km SSE of Burica, Panama",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quwh,earthquake
+us7000quwa,2025-09-09T00:23:16.401000,49.8029,155.9049,65.0,4.7,"98 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quwa,earthquake
+us7000quw6,2025-09-08T23:53:02.994000,35.4889,140.0365,78.048,4.4,"5 km SW of Ichihara, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quw6,earthquake
+us7000quvu,2025-09-08T22:33:19.587000,16.2741,-98.2518,10.0,5.2,"4 km S of El Ciruelo, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quvu,earthquake
+us7000quvp,2025-09-08T21:47:48.083000,-21.0251,173.7122,10.0,6.4,Vanuatu region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000quvp,earthquake
+us7000quvk,2025-09-08T21:27:56.354000,38.249,24.1267,10.0,5.0,"10 km NW of Néa Stíra, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quvk,earthquake
+us7000quvd,2025-09-08T20:32:05.951000,-17.8995,-178.5112,590.647,4.2,"230 km E of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quvd,earthquake
+us7000quup,2025-09-08T18:52:08.270000,9.904,125.5155,122.138,5.3,"10 km SW of Dinagat, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quup,earthquake
+us7000quun,2025-09-08T18:38:22.388000,-20.4944,-178.4958,589.971,4.4,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000quun,earthquake
+us7000quul,2025-09-08T18:22:58.538000,4.8758,123.0971,580.508,4.2,"184 km SE of Tabiauan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quul,earthquake
+us7000qus5,2025-09-08T14:04:15.120000,37.028,141.9062,46.013,4.5,"85 km ESE of Tomioka, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qus5,earthquake
+us7000qurs,2025-09-08T12:55:51.530000,-56.1447,-25.0763,10.0,4.9,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qurs,earthquake
+us7000quqx,2025-09-08T12:51:27.495000,5.7932,125.9181,172.171,4.6,"33 km ESE of Caburan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quqx,earthquake
+us7000quqp,2025-09-08T11:39:52.328000,7.7599,136.7296,10.0,4.7,"224 km E of Kayangel, Palau",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quqp,earthquake
+us7000quqk,2025-09-08T11:32:31.947000,52.5236,160.8244,10.0,5.2,"159 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quqk,earthquake
+us7000qupu,2025-09-08T08:26:40.863000,44.5645,-112.2132,10.0,3.7,"22 km N of Spencer, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qupu,earthquake
+us7000qupw,2025-09-08T08:26:11.848000,52.4805,160.6694,10.0,5.1,"152 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qupw,earthquake
+us7000qupn,2025-09-08T07:11:36.449000,-8.4201,119.4621,171.906,4.4,"19 km N of Komodo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qupn,earthquake
+pr2025251001,2025-09-08T07:04:00.010000,18.4798,-67.2661,97.0,3.68,"13 km WNW of Aguadilla, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025251001,earthquake
+us7000qup7,2025-09-08T06:58:59.903000,44.5399,-112.2477,9.851,3.9,"20 km NNW of Spencer, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qup7,earthquake
+us7000qup5,2025-09-08T06:57:22.998000,44.571,-112.2207,10.0,3.7,"23 km N of Spencer, Idaho",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qup5,earthquake
+us7000qunw,2025-09-08T05:50:45.381000,23.7403,122.533,10.0,4.8,"93 km SSW of Yonakuni, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qunw,earthquake
+us7000qunz,2025-09-08T05:45:48.236000,26.699,91.6927,10.0,4.4,"21 km ESE of Samdrup Jongkhar, Bhutan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qunz,earthquake
+us7000qunk,2025-09-08T04:23:05.156000,-1.0102,134.2058,36.169,4.5,"22 km SE of Manokwari, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qunk,earthquake
+us7000qung,2025-09-08T03:50:05.254000,-41.1807,172.571,6.235,4.2,"37 km W of Motueka, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qung,earthquake
+us7000qunj,2025-09-08T03:45:47.753000,32.4152,141.7504,10.0,4.6,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qunj,earthquake
+us7000qunh,2025-09-08T03:45:30.482000,-24.5101,-179.202,534.509,4.2,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qunh,earthquake
+us7000qunb,2025-09-08T03:09:58.705000,-58.3414,-15.8639,10.0,5.1,east of the South Sandwich Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qunb,earthquake
+us7000qumy,2025-09-08T01:27:24.814000,-50.773,162.2429,14.324,5.2,"Auckland Islands, New Zealand region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qumy,earthquake
+pr2025251000,2025-09-08T01:24:15.010000,19.2386,-64.5066,35.0,3.75,"104 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025251000,earthquake
+us7000qumm,2025-09-07T23:49:05.172000,-20.9853,-69.0382,108.047,4.5,"85 km WNW of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qumm,earthquake
+us7000qump,2025-09-07T23:24:28.425000,36.5816,138.2515,137.476,4.3,"9 km SW of Suzaka, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qump,earthquake
+us7000qumb,2025-09-07T22:20:17.747000,-7.6034,123.9622,334.573,4.1,"176 km NW of Maubara, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qumb,earthquake
+us7000qum6,2025-09-07T21:56:10.973000,41.9534,81.9661,34.073,4.5,"84 km WNW of Kuqa, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qum6,earthquake
+us7000qulz,2025-09-07T21:25:00.850000,50.9644,156.9651,88.136,5.0,"67 km ENE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qulz,earthquake
+us7000quln,2025-09-07T20:03:19.539000,39.1451,28.1857,10.0,4.4,"10 km S of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quln,earthquake
+us7000quli,2025-09-07T19:08:42.157000,50.0898,155.8323,83.441,4.8,"68 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quli,earthquake
+us7000qulg,2025-09-07T19:03:37.038000,-15.9332,-175.0025,284.583,4.4,"129 km W of Hihifo, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qulg,earthquake
+us7000quld,2025-09-07T18:57:28.195000,61.3973,-140.9892,0.0,3.5,"103 km E of McCarthy, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quld,earthquake
+us7000qula,2025-09-07T18:24:38.846000,52.0011,158.8498,67.474,4.3,"107 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qula,earthquake
+us7000qukr,2025-09-07T15:36:28.135000,3.5406,126.7564,52.913,4.5,"244 km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qukr,earthquake
+us7000qukq,2025-09-07T15:29:10.854000,-6.4896,130.773,84.132,4.9,"238 km WSW of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qukq,earthquake
+us7000qukk,2025-09-07T15:00:09.235000,51.4793,-130.5291,10.0,4.0,"260 km WNW of Port McNeill, Canada",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qukk,earthquake
+us7000qujy,2025-09-07T11:29:11.290000,23.95,122.5205,31.9,4.9,"75 km SW of Yonakuni, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qujy,earthquake
+us7000qujp,2025-09-07T10:38:40.343000,-7.0848,150.3641,10.0,4.8,"132 km SE of Kandrian, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qujp,earthquake
+us7000quja,2025-09-07T09:35:09.581000,39.1882,28.1441,10.0,4.9,"6 km SSW of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quja,earthquake
+us7000quj3,2025-09-07T08:47:57.121000,52.2024,160.3919,10.0,4.9,"153 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quj3,earthquake
+us7000quj2,2025-09-07T08:40:45.946000,51.2691,157.5065,83.06,4.5,"74 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quj2,earthquake
+us7000quj0,2025-09-07T08:31:26.002000,52.1768,160.3834,10.0,5.0,"154 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quj0,earthquake
+us7000quiz,2025-09-07T08:19:35.171000,36.4731,70.4853,204.705,4.3,"53 km SW of Jurm, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quiz,earthquake
+us7000quir,2025-09-07T07:29:07.540000,9.3193,126.9482,10.0,5.1,"83 km E of Cortes, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quir,earthquake
+us7000quil,2025-09-07T06:51:08.280000,26.2587,141.0702,117.08,4.5,"Bonin Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quil,earthquake
+us7000quij,2025-09-07T06:17:16.097000,43.4035,83.2335,10.0,4.4,"2 km SSW of Xinyuan, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quij,earthquake
+us7000quid,2025-09-07T05:08:49.268000,-16.1241,-75.6307,10.0,4.6,"97 km SSW of San Juan, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quid,earthquake
+us7000qui5,2025-09-07T04:12:30.704000,-24.3345,-67.0833,163.36,4.5,"78 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qui5,earthquake
+us7000qui1,2025-09-07T03:17:05.860000,19.0025,96.3558,10.0,4.9,"10 km NW of Taungoo, Burma (Myanmar)",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qui1,earthquake
+pr2025250000,2025-09-07T00:48:35.130000,18.2295,-67.6953,97.0,3.73,"48 km WSW of Stella, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025250000,earthquake
+us7000quhb,2025-09-07T00:19:46.065000,52.6134,-174.7308,207.425,3.9,"58 km NW of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quhb,earthquake
+us7000quh8,2025-09-07T00:01:19.978000,34.5807,70.6616,10.0,4.6,"25 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quh8,earthquake
+us7000qugk,2025-09-06T21:14:03.371000,52.3874,160.0053,57.568,4.6,"119 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qugk,earthquake
+us7000qugj,2025-09-06T21:09:21.545000,52.5127,160.2061,59.143,4.7,"122 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qugj,earthquake
+us7000qug7,2025-09-06T20:40:41.246000,52.3501,-169.5398,23.991,5.4,"80 km SW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qug7,earthquake
+us7000qufv,2025-09-06T19:55:05.089000,-37.4257,178.7255,38.154,5.1,"42 km ENE of Hicks Bay, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qufv,earthquake
+us7000qufq,2025-09-06T18:55:15.194000,-28.2643,-67.451,116.252,4.4,"24 km SSE of Tinogasta, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qufq,earthquake
+us7000qufp,2025-09-06T18:51:28.077000,-17.8589,-178.1736,550.254,4.6,"266 km E of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qufp,earthquake
+us7000quf4,2025-09-06T16:08:28.571000,51.4829,159.6388,10.0,4.8,"181 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quf4,earthquake
+us7000quey,2025-09-06T15:44:07.934000,25.0234,125.0354,25.841,4.4,"36 km NW of Hirara, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quey,earthquake
+us7000qudy,2025-09-06T11:02:17.278000,43.3319,-29.0282,10.0,4.7,northern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qudy,earthquake
+us7000qucu,2025-09-06T07:20:15.938000,-22.8683,-66.6299,239.857,4.2,"97 km W of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qucu,earthquake
+us7000qucl,2025-09-06T06:31:53.464000,-20.3404,-178.1111,554.158,4.4,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qucl,earthquake
+us7000qucj,2025-09-06T06:25:29.751000,54.23,-159.846,35.0,5.2,"130 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qucj,earthquake
+us7000quci,2025-09-06T06:18:12.915000,-22.5669,170.979,35.0,4.8,southeast of the Loyalty Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000quci,earthquake
+us7000quc9,2025-09-06T05:35:17.645000,-18.6981,168.973,165.734,4.6,"98 km NNW of Isangel, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quc9,earthquake
+us7000qubq,2025-09-06T03:14:48.981000,57.6813,119.4899,10.0,4.6,"113 km NE of Chara, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qubq,earthquake
+us7000quba,2025-09-06T01:03:35.133000,-17.5238,-178.8248,568.998,4.4,"206 km ENE of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quba,earthquake
+us7000quax,2025-09-05T21:48:28.160000,11.556,-85.8448,195.544,4.5,"6 km N of Potosí, Nicaragua",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quax,earthquake
+us7000quap,2025-09-05T21:05:28.061000,49.0858,156.0926,30.416,4.6,"176 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quap,earthquake
+us7000quaj,2025-09-05T20:55:07.048000,49.2577,156.0319,11.486,5.1,"157 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000quaj,earthquake
+us7000qu9i,2025-09-05T18:26:06.495000,-6.2305,129.7888,200.732,4.4,Banda Sea,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu9i,earthquake
+us7000qu96,2025-09-05T17:43:39.890000,72.6849,3.91,10.0,4.5,Norwegian Sea,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu96,earthquake
+us7000qu91,2025-09-05T17:42:33.488000,-1.8549,-81.0495,11.556,5.4,"41 km NNW of Salinas, Ecuador",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu91,earthquake
+us7000qu8v,2025-09-05T17:40:12.499000,54.1166,-166.1714,107.274,4.4,"25 km W of Akutan, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu8v,earthquake
+us7000qu8p,2025-09-05T17:25:50.499000,34.549,70.6696,10.0,5.2,"24 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu8p,earthquake
+us7000qu5a,2025-09-05T16:29:08.457000,-9.6104,113.7106,60.74,4.6,"142 km SSW of Gambiran Satu, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu5a,earthquake
+us7000qu58,2025-09-05T16:19:24.577000,30.9478,143.014,10.0,4.5,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu58,earthquake
+us7000qu53,2025-09-05T15:06:57.228000,-60.4016,-63.0993,10.0,4.7,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu53,earthquake
+ak025bedycsh,2025-09-05T14:56:57.645000,50.9521,-177.1832,15.5,3.6,"109 km SSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025bedycsh,earthquake
+us7000qu2d,2025-09-05T12:21:50.077000,33.4927,139.3153,10.0,4.6,"135 km SSE of Shimoda, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu2d,earthquake
+us7000qu29,2025-09-05T12:05:20.116000,-7.278,129.392,141.502,4.4,"297 km ENE of Lospalos, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu29,earthquake
+us7000qu28,2025-09-05T12:00:11.133000,36.2009,139.5759,69.073,4.5,"5 km NE of Hanyū, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu28,earthquake
+us7000qu20,2025-09-05T11:02:27.825000,1.8691,122.8522,443.615,4.0,"149 km N of Gorontalo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu20,earthquake
+us7000qu1p,2025-09-05T09:29:16.106000,-6.0445,146.4269,113.617,4.6,"67 km ENE of Kainantu, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu1p,earthquake
+pr2025248002,2025-09-05T07:58:10.970000,19.0305,-64.4108,68.0,3.91,"87 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025248002,earthquake
+us7000qu0w,2025-09-05T06:33:14.571000,15.9324,-96.1984,35.725,4.7,"2 km WNW of San Miguel del Puerto, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu0w,earthquake
+us7000qu0q,2025-09-05T05:37:44.498000,34.6974,70.7885,10.0,4.5,"38 km WSW of Asadābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu0q,earthquake
+us7000qu0m,2025-09-05T05:06:03.870000,30.5541,140.1991,10.0,4.4,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu0m,earthquake
+us7000qu0e,2025-09-05T04:09:01.306000,-24.3364,-67.2726,182.695,4.2,"97 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu0e,earthquake
+us7000qu0f,2025-09-05T04:01:22.114000,-17.5163,-178.8058,550.584,4.5,"208 km ENE of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu0f,earthquake
+pr2025248000,2025-09-05T02:24:59.080000,19.2873,-64.5363,70.0,3.92,"109 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025248000,earthquake
+pr2025248001,2025-09-05T02:18:16.500000,19.6365,-64.2193,29.0,3.79,"156 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025248001,earthquake
+us7000qu02,2025-09-05T02:16:47.438000,34.7164,70.7477,10.0,4.8,"40 km WSW of Asadābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qu02,earthquake
+us7000qtzz,2025-09-05T02:04:38.664000,-24.2844,-67.5517,175.011,4.3,"125 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtzz,earthquake
+us7000qtzt,2025-09-05T01:30:02.321000,34.6668,70.7909,9.071,5.2,"39 km SW of Asadābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtzt,earthquake
+us7000qtzu,2025-09-05T01:27:41.166000,-23.3404,-175.4826,31.244,5.0,"227 km SSW of ‘Ohonua, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtzu,earthquake
+us7000qtxp,2025-09-04T22:38:41.614000,52.4012,160.6787,35.0,5.2,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtxp,earthquake
+us7000qtxh,2025-09-04T21:46:40.269000,34.6919,70.6691,10.0,4.9,"35 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtxh,earthquake
+us7000qtwq,2025-09-04T20:03:04.407000,11.744,-87.3936,48.769,4.9,"85 km SSW of Corinto, Nicaragua",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtwq,earthquake
+us7000qtwh,2025-09-04T19:54:23.139000,52.2938,-169.5441,10.0,5.1,"85 km SSW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtwh,earthquake
+us7000qtvy,2025-09-04T19:01:10.912000,52.2163,-169.4986,10.0,5.1,"91 km SSW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtvy,earthquake
+us7000qtvv,2025-09-04T18:55:02.768000,54.4101,-161.4381,35.0,3.5,"92 km SE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtvv,earthquake
+us7000qtvn,2025-09-04T18:28:22.769000,34.5736,70.652,10.0,4.5,"24 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtvn,earthquake
+us7000qtst,2025-09-04T16:56:25.441000,34.719,70.7909,10.0,5.6,"36 km WSW of Asadābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtst,earthquake
+us7000qts0,2025-09-04T13:52:13.486000,1.5083,99.3824,165.98,4.4,"18 km NE of Padangsidempuan, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qts0,earthquake
+us7000qtrv,2025-09-04T13:28:43.826000,18.4737,-70.5055,10.0,4.4,"8 km S of San José de Ocoa, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtrv,earthquake
+us7000qtrq,2025-09-04T12:55:51.478000,52.0611,160.2346,35.638,4.6,"155 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtrq,earthquake
+nn00903786,2025-09-04T12:01:04.563000,38.1672,-117.8502,9.4,3.5,"33 km SE of Mina, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903786,earthquake
+us7000qtra,2025-09-04T11:10:14.993000,-19.4614,169.82,33.107,5.1,"57 km E of Isangel, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtra,earthquake
+us7000qtr5,2025-09-04T10:23:57.857000,39.2112,142.7934,34.179,4.5,"78 km ESE of Yamada, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtr5,earthquake
+us7000qtr4,2025-09-04T10:06:04.609000,26.5756,140.5058,392.952,4.7,"Bonin Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtr4,earthquake
+us7000qtr2,2025-09-04T09:38:40.582000,-4.9107,153.491,59.85,5.3,"149 km ESE of Kokopo, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtr2,earthquake
+us7000qtqm,2025-09-04T07:15:06.250000,41.7958,82.0746,10.0,4.7,"71 km W of Kuqa, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtqm,earthquake
+pr2025247000,2025-09-04T06:42:20.130000,19.4456,-68.2833,58.0,3.57,"95 km ENE of Miches, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025247000,earthquake
+us7000qtqh,2025-09-04T06:34:21.052000,51.764,158.5133,59.47,4.5,"130 km S of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtqh,earthquake
+us7000qtq9,2025-09-04T05:33:33.622000,23.6548,94.7283,123.232,4.4,"33 km E of Mawlaik, Burma (Myanmar)",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtq9,earthquake
+us7000qtq5,2025-09-04T05:10:52.338000,34.4603,70.5979,10.0,4.7,"13 km ENE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtq5,earthquake
+us7000qtpw,2025-09-04T04:37:49.091000,11.6791,141.8786,10.0,5.1,"258 km NE of Fais, Micronesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpw,earthquake
+us7000qtpz,2025-09-04T04:36:30.214000,-9.1838,124.1954,96.893,4.5,"20 km W of Pante Makasar, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpz,earthquake
+us7000qtpj,2025-09-04T04:10:18.014000,-24.3833,-67.2005,176.483,5.9,"91 km WSW of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpj,earthquake
+us7000qtpi,2025-09-04T04:10:08.663000,-24.347,-67.16,177.999,5.1,"86 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpi,earthquake
+us7000qtpk,2025-09-04T01:24:05.554000,52.2821,-169.4369,33.392,3.8,"82 km SSW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtpk,earthquake
+us7000qtnu,2025-09-04T01:10:02.462000,-0.9265,120.3591,49.174,4.4,"54 km E of Palu, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtnu,earthquake
+us7000qtph,2025-09-04T01:05:36.719000,54.3037,-161.4132,35.0,3.7,"102 km SE of King Cove, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtph,earthquake
+us7000qtnt,2025-09-04T01:01:50.267000,2.8829,125.861,133.403,4.6,"179 km NNE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtnt,earthquake
+us7000qtnm,2025-09-04T00:29:44.681000,52.3776,-169.5462,35.0,4.4,"77 km SW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtnm,earthquake
+us7000qtnk,2025-09-04T00:25:52.283000,-2.79,130.2258,26.398,4.5,"150 km ENE of Masohi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtnk,earthquake
+us7000qtng,2025-09-04T00:14:28.016000,-2.7266,130.142,19.125,4.9,"144 km ENE of Masohi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtng,earthquake
+us7000qtn8,2025-09-03T23:56:39.104000,52.1466,159.1386,59.547,4.9,"100 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtn8,earthquake
+us7000qtn2,2025-09-03T23:09:28.030000,13.9144,144.8281,10.0,4.1,"42 km N of Yigo Village, Guam",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtn2,earthquake
+us7000qtmz,2025-09-03T23:04:26.252000,9.7795,126.3166,35.0,4.5,"22 km E of Union, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtmz,earthquake
+us7000qtmy,2025-09-03T22:56:12.966000,-23.482,-175.6202,45.102,5.0,"246 km SSW of ‘Ohonua, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtmy,earthquake
+us7000qtmw,2025-09-03T22:45:48.225000,9.6192,126.4206,60.337,5.0,"37 km ESE of Union, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtmw,earthquake
+us7000qtmj,2025-09-03T21:21:43.801000,-17.6325,-178.5253,542.79,4.5,"233 km ENE of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtmj,earthquake
+us7000qtm5,2025-09-03T21:00:13.666000,41.8975,82.0199,10.0,4.3,"78 km WNW of Kuqa, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtm5,earthquake
+us7000qtm0,2025-09-03T20:57:46.971000,52.3338,-169.6766,10.0,6.0,"87 km SW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtm0,earthquake
+us7000qtlv,2025-09-03T20:50:07.259000,54.4356,-159.7571,21.266,3.9,"111 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtlv,earthquake
+pr2025246004,2025-09-03T20:48:30.140000,19.7463,-66.9026,40.0,3.93,"138 km N of Isabela, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025246004,earthquake
+us7000qtlm,2025-09-03T20:31:16.213000,27.4145,129.3822,20.66,4.6,"52 km ESE of Isen, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtlm,earthquake
+us7000qtlc,2025-09-03T20:07:42.046000,52.2145,-170.1127,34.728,4.2,"117 km SW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtlc,earthquake
+us7000qtkq,2025-09-03T18:47:59.363000,-1.661,139.1902,22.133,4.4,"190 km WNW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtkq,earthquake
+us7000qtkm,2025-09-03T18:39:32.655000,-4.0386,143.0991,68.269,4.8,"36 km ENE of Ambunti, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtkm,earthquake
+pr2025246003,2025-09-03T18:02:37.530000,18.818,-64.8246,12.0,3.73,"53 km NNE of Charlotte Amalie, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025246003,earthquake
+us7000qtkb,2025-09-03T17:02:02.659000,51.1713,158.1582,60.656,4.5,"121 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtkb,earthquake
+us7000qtk7,2025-09-03T16:41:12.843000,-1.7907,139.0965,16.885,4.9,"192 km WNW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtk7,earthquake
+us7000qtk5,2025-09-03T16:27:58.159000,-25.3559,179.8118,512.614,4.4,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtk5,earthquake
+us7000qthu,2025-09-03T15:28:47.453000,71.4968,-10.1098,10.0,4.3,"81 km NW of Olonkinbyen, Svalbard and Jan Mayen",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qthu,earthquake
+pr2025246002,2025-09-03T15:05:37.160000,19.6445,-64.2728,45.0,3.61,"155 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025246002,earthquake
+us7000qthm,2025-09-03T14:56:44.717000,-1.6058,-78.0697,163.32,5.3,"15 km SSW of Puyo, Ecuador",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qthm,earthquake
+us7000qth9,2025-09-03T13:45:36.482000,-20.5304,-177.8387,569.035,4.7,"273 km WNW of Houma, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qth9,earthquake
+us7000qtgz,2025-09-03T12:41:35.910000,-12.1271,166.5085,103.554,4.6,"173 km SSE of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtgz,earthquake
+us7000qtlr,2025-09-03T12:14:20.071000,54.1331,-159.9529,10.0,3.8,"138 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtlr,earthquake
+us7000qtgs,2025-09-03T12:03:47.123000,54.0397,-159.7695,10.0,4.3,"151 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtgs,earthquake
+ak025bb13tct,2025-09-03T11:59:12.955000,56.0528,-152.0333,19.3,3.5,"149 km SSE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025bb13tct,earthquake
+us7000qtgg,2025-09-03T10:18:41.533000,-1.9569,139.1728,20.901,4.7,"177 km WNW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtgg,earthquake
+us7000qtgb,2025-09-03T09:51:43.168000,-7.7403,127.6824,133.38,4.5,"114 km NE of Lospalos, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtgb,earthquake
+us7000qtfv,2025-09-03T07:34:26.372000,-60.3834,-62.1863,10.0,4.8,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtfv,earthquake
+us7000qtfr,2025-09-03T07:18:31.030000,-19.2663,-69.1045,126.259,4.4,"34 km E of Camiña, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtfr,earthquake
+pr2025246001,2025-09-03T04:49:27.520000,19.7323,-64.1523,49.0,3.94,"169 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025246001,earthquake
+us7000qteu,2025-09-03T04:02:19.703000,51.8749,160.1407,35.0,4.9,"166 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qteu,earthquake
+us7000qteq,2025-09-03T03:38:19.690000,51.4268,159.3851,13.835,5.3,"180 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qteq,earthquake
+us7000qtep,2025-09-03T03:25:59.331000,30.9432,-8.256,12.845,4.5,"47 km SW of Oukaïmedene, Morocco",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtep,earthquake
+us7000qte0,2025-09-03T00:37:57.061000,-23.5586,170.3701,10.0,5.0,southeast of the Loyalty Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qte0,earthquake
+pr2025246000,2025-09-03T00:23:07.920000,19.4536,-67.603,48.0,3.69,"118 km NNW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025246000,earthquake
+us7000qtdy,2025-09-03T00:21:30.393000,-6.0153,150.1558,35.0,4.7,"51 km S of Kimbe, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtdy,earthquake
+us7000qtdv,2025-09-03T00:15:24.625000,-11.4024,165.5859,10.0,5.0,"78 km SSW of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtdv,earthquake
+us7000qtdt,2025-09-02T23:53:17.432000,-0.9703,120.344,45.798,5.0,"53 km E of Palu, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtdt,earthquake
+us7000qtee,2025-09-02T23:37:07.148000,52.9579,159.9085,50.032,4.3,"86 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtee,earthquake
+us7000qtdk,2025-09-02T22:49:12.445000,-46.516,166.6475,62.942,4.3,"106 km W of Riverton, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtdk,earthquake
+us7000qtdh,2025-09-02T22:12:57.295000,-20.4457,-177.5716,450.056,4.7,"249 km WNW of Houma, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtdh,earthquake
+pr2025245000,2025-09-02T21:37:03.010000,19.407,-64.4913,34.0,3.89,"123 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025245000,earthquake
+us7000qtda,2025-09-02T21:13:44.941000,34.5888,70.7241,10.0,4.0,"30 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtda,earthquake
+us7000qtcv,2025-09-02T20:21:21.895000,-20.7621,-67.3374,203.532,4.1,"63 km WSW of Uyuni, Bolivia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtcv,earthquake
+us7000qtcu,2025-09-02T20:14:29.872000,-23.3032,170.6406,10.0,5.0,southeast of the Loyalty Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtcu,earthquake
+us7000qtcp,2025-09-02T20:04:46.730000,-7.0391,150.2467,10.0,4.8,"120 km SE of Kandrian, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtcp,earthquake
+us7000qtc3,2025-09-02T17:40:46.141000,51.5063,159.5424,10.915,4.6,"176 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtc3,earthquake
+us7000qtbz,2025-09-02T17:24:49.345000,52.7472,159.0896,78.346,4.3,"47 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtbz,earthquake
+us7000qtbw,2025-09-02T17:10:34.573000,-33.099,-178.4916,10.0,4.8,south of the Kermadec Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtbw,earthquake
+us7000qtbk,2025-09-02T15:50:18.955000,-20.8956,-178.7826,568.532,4.5,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qtbk,earthquake
+us7000qta0,2025-09-02T15:08:04.877000,34.3825,70.9892,10.0,4.2,"18 km WNW of Shinpokh, Pakistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qta0,earthquake
+us7000qt9s,2025-09-02T14:39:26.942000,51.3913,158.4226,52.439,4.7,"134 km E of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt9s,earthquake
+nn00903673,2025-09-02T13:31:50.464000,41.0661,-116.6803,10.4,3.9,"48 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903673,earthquake
+nn00903669,2025-09-02T13:31:33.309000,41.1659,-116.7288,9.9,3.7,"53 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903669,earthquake
+us7000qt93,2025-09-02T13:10:21.951000,-3.4008,129.2524,10.0,4.7,"33 km ESE of Masohi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt93,earthquake
+us7000qt95,2025-09-02T13:04:57.967000,51.609,159.5781,28.71,4.5,"167 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt95,earthquake
+us7000qt8u,2025-09-02T12:29:38.908000,34.6749,70.6807,10.0,5.2,"34 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt8u,earthquake
+us7000qt8s,2025-09-02T12:18:46.438000,48.3418,157.0804,10.0,4.6,"268 km SSE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt8s,earthquake
+us7000qt8q,2025-09-02T12:05:28.006000,-3.3237,129.3042,10.0,4.4,"37 km E of Masohi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt8q,earthquake
+us7000qt8p,2025-09-02T11:56:34.190000,49.4245,157.507,10.0,4.7,"170 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt8p,earthquake
+us7000qt8g,2025-09-02T11:25:03.928000,52.6292,160.3969,36.509,5.0,"128 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt8g,earthquake
+us7000qt85,2025-09-02T08:58:34.425000,-15.1029,-178.5572,419.944,4.3,"99 km SSW of Leava, Wallis and Futuna",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt85,earthquake
+us7000qt82,2025-09-02T08:21:28.182000,2.388,128.4964,230.414,4.5,"90 km NE of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt82,earthquake
+us7000qt80,2025-09-02T07:58:50.016000,40.6657,78.8151,10.0,4.9,"90 km NNW of Tumxuk, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt80,earthquake
+us7000qt7w,2025-09-02T07:09:24.592000,9.5765,122.2268,50.374,4.6,"25 km WSW of Cayhagan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt7w,earthquake
+us7000qt7m,2025-09-02T06:41:56.323000,31.4932,-115.5551,10.0,4.2,"68 km ENE of San Vicente, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt7m,earthquake
+us7000qt79,2025-09-02T05:25:36.048000,54.3575,-159.8524,35.0,3.9,"116 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt79,earthquake
+us7000qt9d,2025-09-02T05:12:42.817000,13.0372,144.8622,49.809,4.5,"28 km SSE of Inarajan Village, Guam",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt9d,earthquake
+us7000qt6l,2025-09-02T03:37:31.102000,51.2468,-173.8902,22.903,4.7,"107 km SSE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt6l,earthquake
+us7000qt6k,2025-09-02T03:32:31.381000,30.6344,140.1712,10.0,5.3,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt6k,earthquake
+us7000qt66,2025-09-02T02:02:00.411000,-4.2006,128.6961,9.97,4.6,"79 km SE of Ambon, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt66,earthquake
+us7000qt5u,2025-09-02T01:03:28.611000,50.083,155.9222,85.088,4.4,"67 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt5u,earthquake
+us7000qt5b,2025-09-01T21:38:22.809000,22.9887,-109.6191,10.0,4.8,"9 km SSE of La Playa, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt5b,earthquake
+us7000qt5a,2025-09-01T21:27:45.588000,2.409,127.3027,94.636,4.4,"108 km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt5a,earthquake
+nc75231747,2025-09-01T20:26:38.050000,36.6903333333333,-121.330833333333,4.72,3.71,"11 km S of Tres Pinos, CA",https://earthquake.usgs.gov/earthquakes/eventpage/nc75231747,earthquake
+us7000qt4m,2025-09-01T20:09:50.405000,39.2058,28.0683,10.0,4.2,"10 km WSW of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt4m,earthquake
+ak025b7ujvq0,2025-09-01T19:18:58.236000,56.1301,-152.0716,9.8,4.4,"141 km SSE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7ujvq0,earthquake
+us7000qt4d,2025-09-01T19:18:55.082000,56.2895,-152.1007,10.0,4.3,"125 km SE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt4d,earthquake
+ak025b7ujm2g,2025-09-01T19:17:28.335000,56.1115,-152.1428,11.4,3.6,"140 km SSE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7ujm2g,earthquake
+ak025b7uhxlr,2025-09-01T19:09:51.350000,56.186,-152.1302,11.4,4.2,"134 km SSE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7uhxlr,earthquake
+us7000qt3p,2025-09-01T16:56:24.295000,0.2228,121.9469,197.545,4.4,"128 km WSW of Gorontalo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt3p,earthquake
+us7000qt71,2025-09-01T16:12:10.754000,52.112,160.0176,57.952,4.5,"141 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt71,earthquake
+us7000qt16,2025-09-01T15:35:52.713000,51.9867,158.7715,78.895,4.4,"108 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt16,earthquake
+us7000qt11,2025-09-01T15:06:16.443000,51.4959,159.7441,10.0,4.6,"184 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt11,earthquake
+pr2025244002,2025-09-01T14:05:00.520000,19.5738,-64.2326,37.0,3.76,"149 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025244002,earthquake
+us7000qt0p,2025-09-01T13:48:01.759000,-30.6105,-71.2446,61.209,4.6,"4 km WSW of Ovalle, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt0p,earthquake
+pr2025244001,2025-09-01T13:30:48.970000,19.5901,-64.2511,38.0,3.97,"150 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025244001,earthquake
+us7000qt0j,2025-09-01T11:58:42.919000,51.779,159.7002,35.0,4.9,"155 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt0j,earthquake
+us7000qt0i,2025-09-01T11:56:19.771000,2.0705,127.1772,38.664,4.4,"100 km WNW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qt0i,earthquake
+ak025b7py6gc,2025-09-01T11:45:49.009000,56.3707,-152.1175,12.0,4.7,"117 km SE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7py6gc,earthquake
+pr2025244000,2025-09-01T11:17:02.820000,19.4991,-64.4155,35.0,3.69,"135 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025244000,earthquake
+ak025b7pqg2m,2025-09-01T11:08:49.784000,56.3314,-152.0878,12.0,3.9,"122 km SE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7pqg2m,earthquake
+ak025b7pq04v,2025-09-01T11:07:25.285000,56.2109,-152.0955,8.6,4.0,"133 km SSE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7pq04v,earthquake
+ak025b7povrc,2025-09-01T11:02:10.535000,56.2794,-151.9837,18.5,5.0,"130 km SE of Old Harbor, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025b7povrc,earthquake
+us7000qszi,2025-09-01T09:27:37.204000,18.7885,-69.6271,108.171,4.4,"4 km NNE of Bayaguana, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qszi,earthquake
+us7000qszd,2025-09-01T08:58:25.023000,-6.3646,149.3294,35.0,5.0,"29 km SW of Kandrian, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qszd,earthquake
+us7000qsyz,2025-09-01T07:38:33.399000,-24.1293,-66.8639,166.608,4.8,"56 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsyz,earthquake
+us7000qsyr,2025-09-01T06:47:56.274000,51.446,159.0381,35.0,4.7,"170 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsyr,earthquake
+us7000qsyj,2025-09-01T05:54:39.625000,-17.3838,-174.7098,210.845,4.4,"159 km NNW of Neiafu, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsyj,earthquake
+us7000qsya,2025-09-01T05:01:47.495000,34.7173,70.6797,10.0,4.6,"38 km NNE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsya,earthquake
+us7000qsy5,2025-09-01T03:59:16.106000,51.6654,159.0539,35.0,4.8,"147 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsy5,earthquake
+us7000qsy1,2025-09-01T03:18:12.227000,-22.3777,-68.85,123.734,4.1,"11 km NE of Calama, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsy1,earthquake
+us7000qsxz,2025-09-01T02:59:51.485000,34.3508,70.8207,10.0,4.3,"12 km NNW of Bāsawul, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsxz,earthquake
+us7000qsxx,2025-09-01T02:43:45.408000,34.6098,70.7717,10.0,4.7,"35 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsxx,earthquake
+us7000qsxt,2025-09-01T01:59:21.447000,50.6213,157.8388,54.04,4.8,"121 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsxt,earthquake
+us7000qsx4,2025-08-31T23:46:28.107000,34.6626,70.7106,10.9,5.2,"35 km NE of Jalālābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsx4,earthquake
+pr2025243003,2025-08-31T23:38:58.810000,19.7741,-64.082,63.0,4.14,"176 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025243003,earthquake
+us7000qswp,2025-08-31T23:04:30.747000,-8.2024,107.6289,35.0,4.5,"108 km SSW of Singaparna, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qswp,earthquake
+us7000qswe,2025-08-31T21:33:19.961000,34.7018,70.7315,10.0,5.2,"Hindu Kush region, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qswe,earthquake
+us7000qswc,2025-08-31T21:19:41.277000,51.3711,-173.9163,10.0,4.5,"93 km SSE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qswc,earthquake
+us7000qsvq,2025-08-31T19:38:04.630000,34.3376,70.8817,10.0,4.5,"10 km N of Bāsawul, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsvq,earthquake
+us7000qsvj,2025-08-31T19:17:34.176000,34.7061,70.7934,8.0,6.0,"37 km WSW of Asadābād, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsvj,earthquake
+us7000qsva,2025-08-31T18:21:22.988000,16.3142,-92.974,196.351,4.4,"3 km NNW of Jericó, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsva,earthquake
+us7000qsv2,2025-08-31T17:55:58.309000,15.0053,-94.3955,10.0,4.1,"122 km SSW of Cabeza de Toro, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsv2,earthquake
+us7000qsv0,2025-08-31T17:31:47.473000,-7.5231,127.7248,158.388,4.4,"136 km NE of Lospalos, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsv0,earthquake
+us7000qsuw,2025-08-31T17:10:48.826000,51.3017,158.8611,35.0,4.8,"165 km E of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsuw,earthquake
+us7000qsu5,2025-08-31T16:24:29.176000,-58.4148,-25.5921,84.629,5.9,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsu5,earthquake
+us7000qsu4,2025-08-31T16:13:53.124000,27.2889,126.5233,164.749,4.6,"142 km WNW of Ie, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsu4,earthquake
+us7000qsty,2025-08-31T15:47:08.247000,51.5238,-173.9222,35.0,3.8,"77 km SSE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsty,earthquake
+us7000qstv,2025-08-31T15:38:50.117000,-20.3806,-177.7114,495.29,4.4,"265 km WNW of Houma, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qstv,earthquake
+pr2025243002,2025-08-31T15:37:15.490000,19.6223,-64.3893,60.0,3.92,"149 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025243002,earthquake
+us7000qstq,2025-08-31T15:10:46.632000,-24.2982,-66.9434,182.086,4.4,"64 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qstq,earthquake
+us7000qst8,2025-08-31T13:27:36.479000,51.8538,158.6704,58.019,4.6,"121 km S of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qst8,earthquake
+us7000qssa,2025-08-31T10:58:13.829000,-3.8592,155.1257,10.0,4.9,"266 km NNW of Kieta, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qssa,earthquake
+nn00903530,2025-08-31T08:49:34.229000,41.2236,-116.7093,9.3,3.7,"59 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903530,earthquake
+us7000qsrf,2025-08-31T08:42:54.693000,-33.6008,-71.6638,37.537,4.4,"5 km W of San Antonio, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsrf,earthquake
+us7000qsr9,2025-08-31T08:16:06.854000,-6.458,147.3125,74.157,4.9,"45 km NE of Lae, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsr9,earthquake
+us7000qsr1,2025-08-31T07:49:53.292000,7.2815,123.4823,10.0,4.9,"19 km SSE of Malim, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsr1,earthquake
+us7000qsqx,2025-08-31T07:11:23.792000,-23.3664,178.9769,554.091,4.6,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsqx,earthquake
+pr2025243000,2025-08-31T06:09:05.120000,19.265,-65.1243,71.0,3.77,"104 km NNW of Charlotte Amalie, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025243000,earthquake
+nn00903516,2025-08-31T05:27:39.838000,41.1513,-116.7167,8.8,3.8,"52 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903516,earthquake
+nn00903513,2025-08-31T05:27:24.337000,41.1561,-116.7481,5.9,4.0,"51 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903513,earthquake
+us7000qspx,2025-08-31T04:09:01.616000,-15.9183,-75.6033,10.0,4.5,"77 km SW of San Juan, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qspx,earthquake
+us7000qspu,2025-08-31T03:59:41.445000,-15.961,-75.5209,10.0,4.7,"76 km SSW of San Juan, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qspu,earthquake
+us7000qspt,2025-08-31T03:50:18.625000,-21.3561,-11.8679,10.0,5.1,southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qspt,earthquake
+us7000qspn,2025-08-31T03:19:34.781000,18.933,-109.3308,10.0,4.0,Revilla Gigedo Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qspn,earthquake
+us7000qsnz,2025-08-31T01:14:44.910000,0.6106,98.5048,65.416,4.6,"78 km E of Teluk Dalam, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsnz,earthquake
+us7000qsnu,2025-08-31T00:44:04.170000,3.3132,-84.1259,10.0,4.5,off the coast of Central America,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsnu,earthquake
+us7000qsnp,2025-08-31T00:30:18.892000,2.041,126.6675,50.908,4.6,"153 km WNW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsnp,earthquake
+us7000qsni,2025-08-30T23:50:27.748000,52.7195,159.8134,65.761,4.7,"88 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsni,earthquake
+us7000qsn8,2025-08-30T23:03:53.569000,-6.194,131.2978,65.059,4.9,"172 km WSW of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsn8,earthquake
+us7000qsn0,2025-08-30T21:50:34.300000,6.8591,-73.1234,148.71,4.5,"14 km NNW of Jordán, Colombia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsn0,earthquake
+us7000qsly,2025-08-30T20:09:26.760000,-11.4554,166.3239,51.899,5.5,"99 km SE of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsly,earthquake
+nn00903475,2025-08-30T19:02:59.219000,41.2573,-116.7306,4.2,4.0,"61 km NNE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903475,earthquake
+nn00903470,2025-08-30T18:59:53.401000,41.1396,-116.7192,8.1,4.8,"51 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903470,earthquake
+us7000qsn6,2025-08-30T18:30:24.597000,51.9054,-169.8683,8.743,4.1,"133 km SSW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsn6,earthquake
+us7000qsn4,2025-08-30T17:58:43.153000,54.4343,-159.8385,32.361,3.5,"109 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsn4,earthquake
+us7000qsks,2025-08-30T17:16:38.899000,-12.9588,166.6198,80.429,4.8,"143 km NW of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsks,earthquake
+us7000qskp,2025-08-30T17:05:31.175000,15.426,96.3212,10.0,4.7,"117 km SE of Pyapon, Burma (Myanmar)",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qskp,earthquake
+us7000qskm,2025-08-30T16:59:39.431000,49.961,157.3562,11.869,5.0,"118 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qskm,earthquake
+us7000qskb,2025-08-30T14:58:50.069000,-11.6637,166.2191,56.278,5.1,"113 km SSE of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qskb,earthquake
+us7000qsk1,2025-08-30T13:35:32.914000,-4.9349,103.032,62.992,4.9,"103 km SSW of Pagar Alam, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsk1,earthquake
+us7000qsjm,2025-08-30T11:31:28.391000,-41.0401,173.8101,77.897,4.9,"32 km NW of Waikawa, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsjm,earthquake
+us7000qsjq,2025-08-30T10:34:00.790000,31.5118,50.114,10.0,4.5,"54 km ENE of Rāmhormoz, Iran",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsjq,earthquake
+pr2025242003,2025-08-30T09:43:44.520000,18.2885,-67.822,142.0,3.78,"60 km W of Rincón, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025242003,earthquake
+us7000qsj9,2025-08-30T09:35:17.574000,-32.212,-13.3024,10.0,5.0,southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsj9,earthquake
+pr2025242004,2025-08-30T09:33:27.690000,19.4183,-64.332,69.0,3.84,"129 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025242004,earthquake
+us7000qsj6,2025-08-30T09:26:36.591000,39.4671,141.8959,65.465,4.8,"4 km W of Yamada, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsj6,earthquake
+pr2025242002,2025-08-30T08:04:10.380000,18.978,-66.2581,59.0,3.68,"57 km N of Brenas, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025242002,earthquake
+us7000qsis,2025-08-30T07:50:06.235000,34.5989,16.3725,9.999,4.7,"215 km SE of Marsaskala, Malta",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsis,earthquake
+pr2025242001,2025-08-30T07:21:33.330000,19.6115,-64.2898,48.0,3.76,"151 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025242001,earthquake
+us7000qsh6,2025-08-30T06:35:42.177000,55.2949,-163.3081,206.809,3.6,"39 km WNW of Cold Bay, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsh6,earthquake
+us7000qsh1,2025-08-30T05:46:46.064000,-14.8163,167.0302,176.74,4.6,"25 km N of Port-Olry, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsh1,earthquake
+nn00903424,2025-08-30T04:54:49.602000,41.1607,-116.6811,7.8,3.8,"55 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903424,earthquake
+us7000qsgp,2025-08-30T04:11:26.053000,-21.1371,-68.4234,123.702,4.2,"20 km WNW of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsgp,earthquake
+pr2025242000,2025-08-30T01:13:44.150000,18.4241,-65.6026,109.0,3.55,"12 km NNE of Fajardo, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025242000,earthquake
+us7000qsfw,2025-08-29T23:53:57.996000,52.1139,160.0397,56.345,5.1,"142 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsfw,earthquake
+us7000qsfj,2025-08-29T23:48:30.913000,53.2496,159.9085,79.606,5.0,"88 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsfj,earthquake
+us7000qsfb,2025-08-29T22:58:35.547000,50.8364,157.1925,85.034,5.2,"77 km ENE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qsfb,earthquake
+us7000qs9z,2025-08-29T21:48:43.387000,-18.9492,-69.4232,114.517,4.6,"40 km N of Camiña, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qs9z,earthquake
+us7000qs8v,2025-08-29T21:40:35.474000,-19.9445,-69.908,54.51,3.8,"15 km WNW of Huara, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qs8v,earthquake
+us7000qryw,2025-08-29T18:43:15.779000,-31.5837,-69.4633,120.921,4.1,"27 km S of Calingasta, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qryw,earthquake
+us7000qryx,2025-08-29T18:42:08.749000,3.7339,128.5529,56.891,4.5,"229 km NNE of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qryx,earthquake
+us7000qrw7,2025-08-29T16:51:00.782000,37.2553,141.6984,44.24,5.0,"61 km E of Tomioka, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrw7,earthquake
+us7000qrw3,2025-08-29T16:29:21.285000,38.3686,142.1629,44.41,5.5,"63 km E of Onagawa Chō, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrw3,earthquake
+pr2025241002,2025-08-29T16:15:19.060000,19.3713,-65.1461,30.0,3.57,"116 km NNW of Charlotte Amalie, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025241002,earthquake
+us7000qruy,2025-08-29T14:02:14.653000,-8.558,108.9373,60.539,4.7,"92 km S of Cilacap, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qruy,earthquake
+us7000qruk,2025-08-29T10:30:39.386000,13.5047,-90.8972,35.0,4.1,"47 km S of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qruk,earthquake
+us7000qrug,2025-08-29T10:16:04.602000,-1.9627,140.7011,10.0,4.7,"63 km N of Jayapura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrug,earthquake
+us7000qrue,2025-08-29T09:45:17.658000,50.3228,158.772,10.0,4.8,"191 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrue,earthquake
+nn00903367,2025-08-29T09:44:05.891000,41.2376,-116.6947,8.8,3.5,"61 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903367,earthquake
+us7000qru7,2025-08-29T09:14:25.211000,51.6694,179.5682,82.747,5.1,"263 km W of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qru7,earthquake
+nn00903349,2025-08-29T09:05:04.978000,41.1931,-116.7005,8.2,3.5,"57 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903349,earthquake
+us7000qrtw,2025-08-29T06:53:22.239000,51.5675,159.7142,10.0,4.9,"176 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrtw,earthquake
+us7000qrts,2025-08-29T06:39:12.454000,48.0089,148.0521,389.508,4.3,northwest of the Kuril Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrts,earthquake
+nn00903335,2025-08-29T06:24:36.800000,41.1781,-116.7046,9.3,3.5,"55 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903335,earthquake
+us7000qrtc,2025-08-29T04:56:39.279000,49.7755,159.3994,10.0,4.6,"254 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrtc,earthquake
+us7000qrtb,2025-08-29T04:41:15.501000,51.9667,159.6247,35.0,4.5,"135 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrtb,earthquake
+us7000qrta,2025-08-29T04:20:57.473000,52.1296,160.4261,10.0,4.7,"160 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrta,earthquake
+us7000qrt8,2025-08-29T03:40:43.874000,49.9257,159.2809,10.0,4.7,"239 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrt8,earthquake
+us7000qrt5,2025-08-29T03:18:46.456000,43.4237,131.4356,541.434,4.0,"25 km N of Barabash, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrt5,earthquake
+us7000qrt1,2025-08-29T03:01:12.007000,-20.4072,-177.5825,485.414,4.4,"251 km WNW of Houma, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrt1,earthquake
+nn00903323,2025-08-29T02:17:48.596000,41.1993,-116.7295,5.2,3.6,"56 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903323,earthquake
+pr2025241001,2025-08-29T02:04:22.690000,19.7178,-63.535,46.0,3.85,"173 km NNW of The Valley, Anguilla",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025241001,earthquake
+pr2025241000,2025-08-29T00:59:34.840000,18.2103,-67.8455,128.0,3.53,"64 km W of Stella, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025241000,earthquake
+us7000qrse,2025-08-29T00:44:19.266000,10.0206,125.7714,99.572,4.7,"15 km NE of Cagdianao, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrse,earthquake
+us7000qrs9,2025-08-28T23:58:30.756000,52.289,160.476,18.887,4.7,"151 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrs9,earthquake
+nn00903306,2025-08-28T22:52:59.759000,41.1938,-116.6986,8.5,3.6,"57 km NE of Valmy, Nevada",https://earthquake.usgs.gov/earthquakes/eventpage/nn00903306,earthquake
+us7000qrrv,2025-08-28T22:10:35.454000,52.26,160.6741,10.0,5.1,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrrv,earthquake
+us7000qrqz,2025-08-28T19:54:31.590000,36.6504,141.1045,88.349,4.6,"35 km ESE of Kitaibaraki, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrqz,earthquake
+us7000qrqm,2025-08-28T18:58:40.056000,-60.3124,-61.845,10.0,4.5,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrqm,earthquake
+us7000qrqn,2025-08-28T17:59:58.713000,51.8351,-172.7037,57.609,3.8,"110 km ESE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrqn,earthquake
+us7000qrkx,2025-08-28T17:36:43.862000,5.5257,127.9959,12.08,4.5,"221 km ESE of Pondaguitan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrkx,earthquake
+us7000qrkh,2025-08-28T17:02:58.866000,-22.4155,-65.8454,260.716,4.8,"37 km NNW of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrkh,earthquake
+pr2025240001,2025-08-28T16:06:19.500000,18.1343,-67.7208,72.0,3.75,"54 km WSW of Stella, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025240001,earthquake
+us7000qrjv,2025-08-28T14:46:05.783000,13.1736,-90.9886,35.0,4.6,"85 km SSW of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrjv,earthquake
+us7000qrjt,2025-08-28T14:16:31.161000,48.8324,156.0893,10.0,4.9,"204 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrjt,earthquake
+us7000qrj3,2025-08-28T11:40:24.099000,-20.7433,169.6472,78.19,5.2,"138 km SSE of Isangel, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrj3,earthquake
+us7000qrj0,2025-08-28T11:07:48.211000,52.0002,179.8605,133.726,5.9,"241 km W of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrj0,earthquake
+us7000qrim,2025-08-28T09:50:09.244000,42.9781,145.9245,47.157,4.5,"47 km SE of Nemuro, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrim,earthquake
+us7000qrij,2025-08-28T09:28:58.603000,32.3207,141.5436,30.72,4.5,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrij,earthquake
+us7000qrid,2025-08-28T08:29:54.462000,-3.9632,143.129,82.8,4.0,"44 km NE of Ambunti, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrid,earthquake
+pr2025240000,2025-08-28T07:18:23.880000,18.0628,-68.4021,81.0,3.5,"41 km SSE of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025240000,earthquake
+us7000qri3,2025-08-28T07:03:12.596000,7.3062,-82.2784,10.0,4.5,"101 km S of Boca Chica, Panama",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qri3,earthquake
+us7000qri0,2025-08-28T06:51:51.847000,51.1067,159.6016,10.0,4.5,"218 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qri0,earthquake
+us7000qrhk,2025-08-28T05:21:57.469000,15.1616,-96.4404,10.0,4.1,"56 km S of Puerto Ángel, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrhk,earthquake
+us7000qrhi,2025-08-28T04:31:38.082000,-5.7517,152.5514,10.0,5.1,"158 km SSE of Kokopo, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrhi,earthquake
+us7000qrhb,2025-08-28T03:12:50.565000,26.6688,127.7041,44.811,4.8,"11 km WSW of Ie, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrhb,earthquake
+us7000qrh7,2025-08-28T02:22:53.103000,49.6759,92.4483,10.0,5.3,"43 km SE of Ulaangom, Mongolia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrh7,earthquake
+us7000qrh6,2025-08-28T02:15:41.766000,-4.6179,104.723,195.476,4.9,"28 km NW of Kotabumi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrh6,earthquake
+us7000qrgw,2025-08-28T01:18:31.668000,29.855,141.47,121.107,4.4,"Izu Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrgw,earthquake
+us7000qral,2025-08-27T14:40:11.268000,-6.8383,131.5679,10.0,4.4,"187 km SW of Tual, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qral,earthquake
+us7000qrab,2025-08-27T13:27:10.455000,36.4432,71.2715,128.261,5.1,"35 km SW of Ashkāsham, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qrab,earthquake
+us7000qra8,2025-08-27T13:10:59.987000,24.8266,121.913,116.04,5.3,"17 km ENE of Yilan, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qra8,earthquake
+us7000qra5,2025-08-27T12:50:01.460000,32.0609,131.8678,50.593,4.4,"35 km SE of Tsunō, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qra5,earthquake
+us7000qr9y,2025-08-27T11:41:36.955000,-33.8306,-72.201,27.279,4.0,"60 km WSW of San Antonio, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr9y,earthquake
+us7000qr9x,2025-08-27T11:37:03.528000,11.3215,-86.8072,35.0,4.4,"60 km SSW of Masachapa, Nicaragua",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr9x,earthquake
+us7000qr9t,2025-08-27T10:20:18.749000,53.3162,-159.955,10.0,3.8,"227 km S of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr9t,earthquake
+us7000qr9v,2025-08-27T10:19:59.569000,3.0326,65.2827,10.0,5.2,Carlsberg Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr9v,earthquake
+us7000qr9r,2025-08-27T09:31:35.603000,2.7153,-76.7013,10.0,4.4,"9 km WSW of Morales, Colombia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr9r,earthquake
+us7000qr9m,2025-08-27T08:28:51.408000,51.803,159.3488,35.0,4.5,"141 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr9m,earthquake
+us7000qr98,2025-08-27T07:14:06.907000,51.735,160.0683,10.0,4.9,"174 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr98,earthquake
+us7000qr92,2025-08-27T05:37:34.205000,-16.2894,167.4414,34.557,4.9,"21 km S of Lakatoro, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr92,earthquake
+us7000qr91,2025-08-27T05:34:06.539000,-55.3723,-26.9603,31.162,5.1,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr91,earthquake
+us7000qr8h,2025-08-27T03:49:51.922000,50.8236,157.4965,53.408,6.0,"98 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr8h,earthquake
+us7000qr8b,2025-08-27T02:46:20.605000,39.1504,28.2462,10.0,4.3,"11 km SSE of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr8b,earthquake
+us7000qr82,2025-08-27T01:31:08.001000,-5.6389,151.081,91.997,5.0,"104 km E of Kimbe, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr82,earthquake
+us7000qr7x,2025-08-27T00:32:35.708000,32.9712,88.2591,10.0,4.3,western Xizang,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr7x,earthquake
+us7000qr7s,2025-08-27T00:10:36.901000,-24.8889,-175.6076,35.0,5.2,south of Tonga,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr7s,earthquake
+us7000qr7r,2025-08-27T00:04:37.989000,-61.8842,-64.8627,10.0,5.2,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr7r,earthquake
+us7000qr7f,2025-08-26T22:46:46.852000,15.7803,-93.9681,58.167,4.3,"26 km SW of Cabeza de Toro, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr7f,earthquake
+us7000qr76,2025-08-26T22:20:46.831000,37.4298,134.9165,364.484,4.0,"173 km NW of Mikuni, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr76,earthquake
+us7000qr6h,2025-08-26T20:33:30.870000,42.365,48.198,10.0,5.4,"17 km E of Novokayakent, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr6h,earthquake
+us7000qr6g,2025-08-26T20:28:53.515000,-26.3647,178.6102,610.688,4.9,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr6g,earthquake
+us7000qr6d,2025-08-26T20:16:09.576000,32.8883,88.446,10.0,5.0,western Xizang,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr6d,earthquake
+us7000qr66,2025-08-26T19:45:47.575000,8.633,126.3007,79.718,4.7,"12 km NNE of Gamut, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr66,earthquake
+us7000qr5w,2025-08-26T19:15:26.498000,-6.7457,129.4733,167.613,4.6,Banda Sea,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr5w,earthquake
+us7000qr0i,2025-08-26T14:26:28.782000,-24.1061,-67.0031,161.082,4.3,"70 km W of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr0i,earthquake
+us7000qr03,2025-08-26T12:25:29.300000,13.1882,-91.0562,35.0,5.0,"85 km SSW of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qr03,earthquake
+us7000qqzv,2025-08-26T10:56:34.006000,23.9457,121.4884,22.558,4.4,"12 km WSW of Hualien City, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzv,earthquake
+us7000qqzu,2025-08-26T10:32:15.165000,51.1748,159.1973,34.278,4.8,"191 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzu,earthquake
+us7000qqzt,2025-08-26T10:31:20.403000,39.5071,72.0451,10.0,4.5,"14 km WSW of Daroot-Korgon, Kyrgyzstan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzt,earthquake
+us7000qqzs,2025-08-26T10:11:07.806000,2.5627,128.1676,136.641,4.7,"93 km N of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzs,earthquake
+us7000qqzm,2025-08-26T08:39:18.311000,-6.414,154.4937,65.594,4.9,"110 km W of Panguna, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzm,earthquake
+us7000qqzj,2025-08-26T08:03:46.709000,54.4352,-160.0688,30.126,5.0,"104 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzj,earthquake
+us7000qqzi,2025-08-26T07:30:30.543000,-3.8073,-81.0398,34.393,4.4,"33 km N of Máncora, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqzi,earthquake
+us7000qqyy,2025-08-26T05:54:31.354000,-12.5654,166.5471,78.105,4.9,"181 km NW of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqyy,earthquake
+us7000qqyz,2025-08-26T05:51:38.683000,51.25,159.265,26.209,4.6,"194 km E of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqyz,earthquake
+us7000qqyn,2025-08-26T04:07:07.150000,38.2803,11.6558,7.466,4.8,"70 km WNW of Favignana, Italy",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqyn,earthquake
+us7000qqxx,2025-08-26T02:03:58.184000,30.2245,84.3846,10.0,4.6,"128 km NW of Saga, China",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqxx,earthquake
+us7000qqxw,2025-08-26T01:44:50.127000,2.6405,128.2659,194.089,4.9,"104 km NNE of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqxw,earthquake
+us7000qqxt,2025-08-26T01:32:48.420000,-17.8642,-178.5457,589.068,5.6,"227 km E of Levuka, Fiji",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqxt,earthquake
+us7000qqxi,2025-08-26T00:03:58.155000,33.9045,87.686,10.0,5.1,western Xizang,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqxi,earthquake
+us7000qqxf,2025-08-25T22:59:30.368000,52.1494,160.0293,35.0,4.4,"139 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqxf,earthquake
+us7000qqx7,2025-08-25T22:13:12.495000,49.1608,155.9441,35.0,5.6,"168 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqx7,earthquake
+ak025awaf5jy,2025-08-25T20:24:40.387000,65.1639,-161.154,7.2,3.6,"25 km N of Koyuk, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025awaf5jy,earthquake
+us7000qqw6,2025-08-25T19:18:23.945000,5.2923,127.0584,126.192,4.8,"153 km SE of Pondaguitan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqw6,earthquake
+us7000qqvw,2025-08-25T18:10:57.404000,2.1297,-79.9428,10.0,4.9,"133 km WNW of Tumaco, Colombia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqvw,earthquake
+us7000qqvr,2025-08-25T18:01:03.645000,-21.7438,-68.6095,121.49,4.7,"68 km SSW of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqvr,earthquake
+us7000qqvt,2025-08-25T17:59:52.219000,39.8263,72.7981,16.988,4.4,"51 km SSE of Nookat, Kyrgyzstan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqvt,earthquake
+us7000qqqv,2025-08-25T15:02:09.755000,52.6024,161.0454,10.0,4.4,"170 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qqqv,earthquake
+us6000r3m1,2025-08-25T11:40:38.821000,18.4879,-69.1184,101.967,4.4,"8 km SE of Ramón Santana, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3m1,earthquake
+us6000r3l9,2025-08-25T06:54:52.190000,14.1263,-91.3497,86.767,4.5,"9 km SSW of Nueva Concepción, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3l9,earthquake
+us6000r3l8,2025-08-25T06:53:18.115000,-8.9389,124.0324,107.269,4.8,"48 km NW of Pante Makasar, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3l8,earthquake
+us6000r3l7,2025-08-25T06:48:34.882000,49.3919,160.0361,10.0,6.1,east of the Kuril Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3l7,earthquake
+pr2025237000,2025-08-25T06:45:10.730000,18.0825,-68.4508,77.0,3.7,"36 km SSE of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025237000,earthquake
+us6000r3ki,2025-08-25T04:06:03.444000,50.7718,157.3885,69.348,4.9,"89 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ki,earthquake
+us6000r3kj,2025-08-25T04:00:17.355000,53.18,160.313,48.122,4.5,"113 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3kj,earthquake
+us6000r3kb,2025-08-25T02:56:17.520000,52.6348,160.6034,30.281,4.6,"141 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3kb,earthquake
+us6000r3k9,2025-08-25T02:41:38.058000,-31.0634,-71.8563,26.142,4.2,"81 km SW of Ovalle, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3k9,earthquake
+us6000r3jj,2025-08-25T00:09:41.794000,36.2953,71.4705,108.231,4.4,"43 km S of Ashkāsham, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3jj,earthquake
+us6000r3jg,2025-08-24T23:54:22.437000,49.7411,159.674,10.0,4.4,"273 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3jg,earthquake
+us6000r3k4,2025-08-24T23:15:44.805000,51.8039,-170.358,10.0,4.3,"162 km SW of Nikolski, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3k4,earthquake
+us6000r3j8,2025-08-24T23:04:30.129000,-6.9331,129.365,158.559,4.6,Banda Sea,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3j8,earthquake
+us6000r3j4,2025-08-24T21:36:42.277000,-4.3724,143.1932,100.251,4.3,"45 km ESE of Ambunti, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3j4,earthquake
+us6000r3ix,2025-08-24T20:48:55.895000,51.6076,159.3467,35.0,4.5,"160 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ix,earthquake
+us6000r3iq,2025-08-24T20:17:57.789000,52.0076,159.8878,35.0,4.3,"143 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3iq,earthquake
+us6000r3ih,2025-08-24T19:14:11.706000,39.2232,28.0931,13.258,4.4,"7 km WSW of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ih,earthquake
+us6000r3ie,2025-08-24T18:58:18.309000,39.2152,28.1335,14.073,4.8,"4 km SW of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ie,earthquake
+us6000r3i8,2025-08-24T18:19:21.798000,-4.6737,152.3808,105.937,4.8,"38 km SSE of Kokopo, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3i8,earthquake
+us6000r3i3,2025-08-24T17:52:18.349000,1.0814,125.7569,71.771,4.4,"80 km ESE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3i3,earthquake
+us6000r3i2,2025-08-24T17:42:17.206000,-32.4874,-71.4593,68.838,4.3,"21 km W of La Ligua, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3i2,earthquake
+us6000r3i1,2025-08-24T17:22:43.737000,-2.1227,139.0783,35.0,4.9,"180 km WNW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3i1,earthquake
+us6000r3hs,2025-08-24T15:45:38.719000,-60.1268,-61.906,10.0,4.8,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3hs,earthquake
+us6000r3hk,2025-08-24T15:26:57.278000,1.0729,125.5257,83.702,4.4,"60 km SE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3hk,earthquake
+us6000r3hf,2025-08-24T14:30:47.065000,-2.138,139.2736,41.219,4.6,"159 km WNW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3hf,earthquake
+pr2025236000,2025-08-24T11:41:56.020000,18.0265,-68.7603,87.0,3.94,"42 km SSW of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025236000,earthquake
+ak025auhgb5h,2025-08-24T11:12:24.508000,51.3001,-177.3417,25.6,3.6,"80 km SW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025auhgb5h,earthquake
+us6000r3gu,2025-08-24T11:04:29.993000,52.4752,160.8558,34.078,4.9,"164 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3gu,earthquake
+us6000r3gp,2025-08-24T10:50:33.320000,-2.3117,-79.0381,101.13,4.8,"24 km WSW of Alausí, Ecuador",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3gp,earthquake
+us6000r3gm,2025-08-24T10:21:53.598000,51.5667,159.506,38.039,4.9,"169 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3gm,earthquake
+us6000r3ga,2025-08-24T08:16:00.964000,51.8796,-173.5597,20.493,3.8,"56 km SE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ga,earthquake
+us6000r3g6,2025-08-24T08:01:03.550000,-18.778,-177.1167,347.927,5.4,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3g6,earthquake
+us6000r3g2,2025-08-24T07:02:51.124000,-23.1416,-67.8079,145.524,4.3,"47 km ESE of San Pedro de Atacama, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3g2,earthquake
+us6000r3fz,2025-08-24T06:42:14.419000,51.7101,158.6661,31.608,4.4,"137 km S of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3fz,earthquake
+us6000r3fy,2025-08-24T06:36:05.611000,52.224,160.351,29.454,4.5,"149 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3fy,earthquake
+us6000r3ft,2025-08-24T05:34:25.666000,52.2624,160.4556,10.0,4.9,"152 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ft,earthquake
+us6000r3fc,2025-08-24T04:15:16.633000,45.7242,26.7571,113.298,4.4,"3 km S of Spulber, Romania",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3fc,earthquake
+us6000r3fa,2025-08-24T03:44:08.460000,-19.3888,-69.2674,100.534,5.0,"18 km ESE of Camiña, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3fa,earthquake
+us6000r3f5,2025-08-24T03:10:35.696000,52.1191,160.5316,10.0,5.4,"166 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3f5,earthquake
+us6000r3f2,2025-08-24T02:31:38.697000,51.5554,159.5033,35.0,5.0,"170 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3f2,earthquake
+us6000r3ey,2025-08-24T02:04:06.214000,51.8164,158.6159,62.003,4.7,"124 km S of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ey,earthquake
+us6000r3ev,2025-08-24T01:32:05.755000,2.0868,96.6499,35.134,4.4,"52 km SE of Sinabang, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ev,earthquake
+us6000r3en,2025-08-24T01:16:35.698000,50.1313,155.9236,85.22,4.4,"62 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3en,earthquake
+us6000r3e7,2025-08-23T23:51:56.425000,52.1995,160.5984,10.0,4.3,"164 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3e7,earthquake
+us6000r3e5,2025-08-23T23:37:25.181000,18.9161,145.4843,223.449,4.5,"Pagan region, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3e5,earthquake
+us6000r3dw,2025-08-23T21:29:36.280000,52.1897,160.3967,43.132,5.4,"154 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3dw,earthquake
+us6000r3dr,2025-08-23T20:38:44.486000,-20.2429,-177.671,506.59,4.6,"267 km WNW of Houma, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3dr,earthquake
+pr2025235001,2025-08-23T19:45:28.530000,18.9825,-68.1673,70.0,3.64,"50 km NNE of Punta Cana, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025235001,earthquake
+pr2025235000,2025-08-23T19:37:48.970000,19.2381,-64.4996,23.0,3.6,"105 km NNE of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025235000,earthquake
+us6000r3cs,2025-08-23T16:47:34.104000,14.4002,-92.8644,48.38,4.3,"59 km SW of Puerto Madero, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3cs,earthquake
+ak025aswyglx,2025-08-23T16:23:17.982000,60.3196,-153.1334,143.3,3.6,"66 km E of Port Alsworth, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025aswyglx,earthquake
+us6000r3ck,2025-08-23T15:49:54.268000,-17.0898,-172.1082,10.0,5.1,"219 km SE of Hihifo, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ck,earthquake
+us6000r3cf,2025-08-23T14:34:30.325000,-60.0461,-61.4861,10.0,4.8,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3cf,earthquake
+us6000r3bz,2025-08-23T12:58:55.340000,-56.3175,-26.8395,75.175,5.2,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3bz,earthquake
+us6000r3bg,2025-08-23T12:24:52.982000,2.1052,96.6914,10.0,5.8,"54 km SE of Sinabang, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3bg,earthquake
+us6000r3b5,2025-08-23T11:16:04.503000,39.2315,28.1452,10.0,4.2,"3 km WSW of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3b5,earthquake
+us6000r3b4,2025-08-23T10:57:00.347000,51.7059,159.9978,22.555,4.3,"174 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3b4,earthquake
+us6000r3at,2025-08-23T09:14:21.474000,13.0753,-90.3605,10.0,6.0,"81 km SW of Acajutla, El Salvador",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3at,earthquake
+us6000r3as,2025-08-23T09:07:59.103000,-32.5045,-71.5221,53.111,4.7,"27 km WSW of La Ligua, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3as,earthquake
+us6000r3ak,2025-08-23T07:58:32.517000,51.7265,160.0193,27.278,4.5,"173 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3ak,earthquake
+us6000r3a2,2025-08-23T05:35:48.518000,-23.5332,-179.878,562.105,4.4,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r3a2,earthquake
+us6000r39p,2025-08-23T04:22:26.051000,51.7865,160.2784,10.0,5.2,"180 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r39p,earthquake
+us6000r39a,2025-08-23T03:44:15.978000,50.8695,157.2411,63.882,5.5,"81 km ENE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r39a,earthquake
+us6000r397,2025-08-23T03:01:31.055000,-31.6516,-69.4547,111.473,4.2,"35 km S of Calingasta, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r397,earthquake
+us6000r38z,2025-08-23T01:57:33.940000,49.8941,157.3444,21.501,4.6,"122 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r38z,earthquake
+us6000r38x,2025-08-23T01:45:28.338000,53.2276,161.5295,10.0,4.6,"195 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r38x,earthquake
+us6000r389,2025-08-23T00:43:45.112000,-24.6557,-176.0075,61.788,5.0,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r389,earthquake
+us6000r388,2025-08-23T00:22:05.639000,49.8327,155.9752,69.861,4.6,"94 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r388,earthquake
+us6000r385,2025-08-23T00:10:54.761000,-24.6639,-175.8988,10.0,5.5,south of Tonga,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r385,earthquake
+us6000r381,2025-08-22T23:22:09.371000,52.353,160.5247,23.721,4.5,"150 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r381,earthquake
+us6000r37j,2025-08-22T20:42:25.831000,-30.2701,-67.4064,30.9,4.9,"40 km N of San Agustín de Valle Fértil, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r37j,earthquake
+us6000r36z,2025-08-22T19:08:16.793000,52.8884,161.1071,10.0,4.4,"167 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r36z,earthquake
+us6000r36r,2025-08-22T17:31:24.433000,-57.0521,-67.2706,10.0,4.8,"257 km SSE of Ushuaia, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r36r,earthquake
+pr2025234001,2025-08-22T16:28:42.530000,18.8243,-67.2471,10.0,4.3,"39 km NNW of San Antonio, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025234001,earthquake
+us6000r36j,2025-08-22T16:25:25.330000,52.3833,160.7175,25.333,4.8,"160 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r36j,earthquake
+us6000r32f,2025-08-22T15:57:36.069000,51.2338,159.4114,10.0,4.9,"201 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r32f,earthquake
+us6000r311,2025-08-22T15:05:58.931000,-60.1793,-61.6284,10.0,4.9,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r311,earthquake
+us6000r30q,2025-08-22T12:52:57.494000,-17.6647,168.6688,226.917,5.4,"38 km ENE of Port-Vila, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r30q,earthquake
+us6000r30n,2025-08-22T12:21:42.312000,39.2488,28.1948,10.0,4.3,"1 km ENE of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r30n,earthquake
+us6000r30m,2025-08-22T11:51:03.015000,-26.765,-178.3255,292.157,4.4,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r30m,earthquake
+us6000r309,2025-08-22T09:36:12.526000,-15.3793,-73.6873,97.275,4.4,"19 km SW of Incuyo, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r309,earthquake
+us6000r308,2025-08-22T09:33:39.493000,-30.426,-177.8988,35.0,5.0,"Kermadec Islands, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r308,earthquake
+us6000r2zy,2025-08-22T08:15:57.322000,50.3942,159.093,10.0,4.8,"212 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zy,earthquake
+us6000r2zx,2025-08-22T08:12:30.132000,-41.2888,-75.3135,10.0,4.4,"140 km WNW of Ancud, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zx,earthquake
+us6000r2zq,2025-08-22T07:08:20.795000,7.4868,126.5292,145.153,4.8,"5 km NNW of San Luis, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zq,earthquake
+us6000r301,2025-08-22T06:45:37.048000,9.9539,-84.1008,10.242,3.8,"2 km W of Colima, Costa Rica",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r301,earthquake
+us6000r2zk,2025-08-22T06:42:02.557000,50.4445,156.3231,83.056,4.5,"29 km SSE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zk,earthquake
+us6000r2zg,2025-08-22T06:20:18.498000,60.8603,-138.3218,10.0,3.5,"165 km NNE of Yakutat, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zg,earthquake
+us6000r2zf,2025-08-22T06:10:52.518000,-24.0319,-66.5947,189.871,4.5,"34 km NW of San Antonio de los Cobres, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zf,earthquake
+us6000r2zd,2025-08-22T06:06:13.945000,23.1341,120.3973,10.0,5.2,"6 km W of Yujing, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2zd,earthquake
+us6000r2za,2025-08-22T05:40:06.541000,51.3669,159.5078,24.74,4.6,"189 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2za,earthquake
+pr2025234000,2025-08-22T05:29:42.160000,18.208,-68.7723,90.0,3.85,"25 km SW of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025234000,earthquake
+us6000r2z8,2025-08-22T05:18:54.528000,-60.2038,-62.0055,10.0,5.0,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2z8,earthquake
+us6000r2z6,2025-08-22T04:56:14.295000,23.3863,94.1816,10.0,5.3,"36 km SW of Mawlaik, Burma (Myanmar)",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2z6,earthquake
+us6000r2yx,2025-08-22T03:17:24.821000,-60.2468,-61.9367,10.0,5.1,Drake Passage,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2yx,earthquake
+us6000r2xq,2025-08-22T02:16:19.202000,-60.1859,-61.8206,10.843,7.5,2025 Southern Drake Passage Earthquake,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2xq,earthquake
+us6000r2x3,2025-08-22T00:18:33.064000,51.228,179.1883,41.151,4.0,"298 km WSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2x3,earthquake
+us6000r2ws,2025-08-21T23:31:43.178000,33.119,-39.58,10.0,4.6,northern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2ws,earthquake
+us6000r2v6,2025-08-21T23:06:17.844000,38.7778,142.1173,67.529,4.5,"47 km SE of Ōfunato, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2v6,earthquake
+us6000r2uz,2025-08-21T22:34:45.554000,38.7089,142.0883,50.018,5.7,"51 km SE of Ōfunato, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2uz,earthquake
+us6000r2v1,2025-08-21T22:34:42.569000,-57.3681,-67.358,10.0,4.7,"290 km SSE of Ushuaia, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2v1,earthquake
+us6000r2uv,2025-08-21T21:37:14.065000,49.9934,155.9103,75.469,4.9,"77 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2uv,earthquake
+us6000r2ut,2025-08-21T21:06:52.955000,52.5749,159.1615,88.995,4.2,"64 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2ut,earthquake
+us7000qw6c,2025-08-21T20:48:05.900000,49.9193,158.0693,10.0,4.1,"161 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qw6c,earthquake
+us7000qwhw,2025-08-21T20:32:54.960000,53.2815,159.6736,63.922,4.0,"74 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwhw,earthquake
+us6000r2ug,2025-08-21T20:17:32.397000,51.4839,159.0275,66.762,4.5,"166 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2ug,earthquake
+us6000r2u4,2025-08-21T19:40:17.965000,51.1415,159.4446,10.0,4.8,"208 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2u4,earthquake
+us7000qwi7,2025-08-21T19:11:19.724000,51.2483,159.3828,10.0,4.1,"198 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwi7,earthquake
+us6000r2tt,2025-08-21T18:57:22.226000,53.6258,161.2762,36.294,4.7,"187 km ENE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2tt,earthquake
+us6000r2tq,2025-08-21T18:51:23.463000,28.0083,139.3748,511.333,4.3,"Bonin Islands, Japan region",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2tq,earthquake
+us7000qwhu,2025-08-21T18:44:25.147000,50.1719,159.0046,10.0,4.1,"212 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwhu,earthquake
+us6000r2ti,2025-08-21T17:16:32.193000,51.971,160.5043,10.0,4.9,"176 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2ti,earthquake
+us6000r2te,2025-08-21T17:16:20.665000,52.0814,160.3966,10.0,4.9,"162 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2te,earthquake
+us6000r2t1,2025-08-21T14:57:00.819000,-8.2342,119.7259,187.922,4.6,"34 km NNW of Labuan Bajo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2t1,earthquake
+us6000r2sx,2025-08-21T14:42:38.764000,51.8319,160.1185,36.036,4.8,"169 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2sx,earthquake
+us6000r2sr,2025-08-21T14:06:59.945000,-5.0637,151.4014,140.554,5.0,"124 km SW of Kokopo, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2sr,earthquake
+us6000r2si,2025-08-21T13:19:08.514000,-2.5264,139.5436,65.092,4.5,"121 km W of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2si,earthquake
+us6000r2s3,2025-08-21T11:21:03.856000,51.8952,160.0113,10.0,5.8,"158 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2s3,earthquake
+us6000r2rv,2025-08-21T10:13:45.353000,49.9009,156.6515,41.409,4.5,"93 km SSE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2rv,earthquake
+pr2025233002,2025-08-21T09:19:45.280000,18.0403,-68.4978,66.0,3.57,"39 km SSE of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025233002,earthquake
+us6000r2rf,2025-08-21T09:08:37.675000,-21.618,-68.4339,151.551,4.2,"47 km SSW of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2rf,earthquake
+us6000r2rc,2025-08-21T08:57:21.322000,-21.5995,-68.217,130.592,4.3,"41 km S of Ollagüe, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2rc,earthquake
+us6000r2rb,2025-08-21T08:37:46.820000,23.2603,120.5541,16.779,4.6,"17 km NNE of Yujing, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2rb,earthquake
+us6000r2r7,2025-08-21T07:59:57.509000,-2.1355,138.9303,31.558,4.7,"196 km WNW of Abepura, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2r7,earthquake
+us6000r2qp,2025-08-21T06:35:30.098000,16.5311,-97.2916,38.578,4.3,"9 km SW of Teojomulco, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2qp,earthquake
+us6000r2qg,2025-08-21T05:35:48.029000,49.7136,157.8343,10.0,4.6,"162 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2qg,earthquake
+tx2025qkelbt,2025-08-21T04:00:07.474000,31.668,-104.374,6.0999,3.5,"56 km S of Whites City, New Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/tx2025qkelbt,earthquake
+us7000qurb,2025-08-21T03:49:35.848000,14.6936,-94.5322,10.0,4.7,"159 km SSW of Cabeza de Toro, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qurb,earthquake
+us6000r2pn,2025-08-21T03:44:49.509000,51.4915,159.9359,10.0,5.1,"191 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2pn,earthquake
+us6000r2pm,2025-08-21T03:29:25.777000,50.3705,156.577,77.19,4.3,"46 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2pm,earthquake
+us6000r2pi,2025-08-21T03:05:10.982000,49.7977,156.0464,62.583,4.5,"97 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2pi,earthquake
+us6000r2pe,2025-08-21T02:58:07.085000,16.1721,96.5348,10.0,4.6,"65 km S of Thongwa, Burma (Myanmar)",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2pe,earthquake
+pr2025233001,2025-08-21T01:55:20.120000,17.3016,-68.2925,70.0,3.85,"123 km SSE of Boca de Yuma, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025233001,earthquake
+us6000r2p9,2025-08-21T01:44:00.146000,34.469,139.3952,10.0,4.7,"47 km ESE of Shimoda, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2p9,earthquake
+us6000r2p7,2025-08-21T01:24:15.369000,-6.4081,147.9121,66.252,4.7,"18 km NNE of Finschhafen, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2p7,earthquake
+pr2025233000,2025-08-21T00:04:55.610000,19.2678,-64.7308,52.0,3.62,"103 km N of Cruz Bay, U.S. Virgin Islands",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025233000,earthquake
+us6000r2nv,2025-08-20T23:35:08.512000,-7.5417,128.5011,151.946,4.2,"197 km ENE of Lospalos, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2nv,earthquake
+us6000r2nm,2025-08-20T22:38:41.788000,-4.0269,129.8665,36.355,4.2,"128 km SE of Masohi, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2nm,earthquake
+us6000r2nk,2025-08-20T22:24:05.196000,40.1,36.0262,10.0,4.4,"12 km NNW of Sulusaray, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2nk,earthquake
+us6000r2m1,2025-08-20T21:39:05.299000,2.8062,92.2105,10.0,4.4,off the west coast of northern Sumatra,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2m1,earthquake
+us7000qwc7,2025-08-20T21:32:01.737000,5.9983,125.9874,152.424,4.2,"33 km ESE of Lamitan, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwc7,earthquake
+us6000r2l7,2025-08-20T21:24:55.732000,43.469,147.5281,41.217,5.1,"74 km ESE of Shikotan, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2l7,earthquake
+ak025ao0swgd,2025-08-20T20:35:26.663000,64.7127,-149.2375,12.5,4.1,"13 km NNW of Four Mile Road, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/ak025ao0swgd,earthquake
+us6000r2l2,2025-08-20T20:35:02.901000,-18.2373,-175.2488,236.646,4.4,"141 km WNW of Neiafu, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2l2,earthquake
+us7000qwc2,2025-08-20T19:55:50.582000,-17.4016,-171.9308,10.0,4.5,"255 km SE of Hihifo, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwc2,earthquake
+us6000r2kl,2025-08-20T19:49:40.072000,52.8036,159.2221,71.828,4.6,"49 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2kl,earthquake
+us7000qwc0,2025-08-20T18:33:19.169000,13.5543,-91.0207,35.0,4.2,"46 km SSW of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwc0,earthquake
+us6000r2k6,2025-08-20T17:28:58.539000,-8.0664,117.9992,214.174,4.5,"68 km NE of Pototano, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2k6,earthquake
+us6000r2jf,2025-08-20T17:25:19.342000,53.0191,159.7545,59.686,4.6,"75 km E of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2jf,earthquake
+us6000r2hj,2025-08-20T17:13:18.581000,-30.154,-177.7973,10.0,5.0,"Kermadec Islands, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2hj,earthquake
+us7000qura,2025-08-20T17:01:48.429000,16.9945,-94.6973,115.386,4.0,"9 km N of Santa María Chimalapa, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qura,earthquake
+us6000r2cf,2025-08-20T16:44:09.891000,50.4891,157.8207,35.0,4.7,"121 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2cf,earthquake
+us6000r2c6,2025-08-20T15:35:35.422000,11.8485,125.9047,10.0,4.9,"49 km E of Sulat, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2c6,earthquake
+us6000r2c5,2025-08-20T15:27:28.698000,34.9568,23.3186,48.734,4.5,"44 km SW of Palaióchora, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2c5,earthquake
+us6000r2c2,2025-08-20T15:14:15.916000,-21.4036,-179.3282,591.717,4.4,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2c2,earthquake
+us6000r2by,2025-08-20T15:06:59.460000,-3.8527,-76.2642,111.982,4.9,"45 km SSE of Alianza Cristiana, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2by,earthquake
+us6000r2be,2025-08-20T13:18:14.030000,52.594,160.2284,35.0,4.4,"119 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2be,earthquake
+us6000r2b3,2025-08-20T12:54:57.751000,-6.4505,107.2464,35.0,4.9,"23 km SSE of Cikarang, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2b3,earthquake
+us6000r2an,2025-08-20T10:43:34.147000,-6.0515,127.7503,398.641,4.2,"264 km S of Ambon, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2an,earthquake
+us6000r2ag,2025-08-20T09:40:43.506000,-8.9052,124.2489,103.092,4.6,"35 km NNW of Pante Makasar, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2ag,earthquake
+us6000r2ab,2025-08-20T09:12:00.265000,-7.0344,129.7936,117.658,4.5,"Kepulauan Babar, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2ab,earthquake
+us6000r2a8,2025-08-20T08:39:03.849000,-24.4007,179.9572,515.99,4.4,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r2a8,earthquake
+pr2025232001,2025-08-20T08:14:37.390000,19.7271,-68.8453,14.0,3.76,"77 km NE of Samaná, Dominican Republic",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025232001,earthquake
+us6000r299,2025-08-20T05:55:29.677000,5.5058,-32.9347,10.0,4.8,central Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r299,earthquake
+us6000r28v,2025-08-20T05:19:20.620000,49.8029,155.934,78.508,4.5,"98 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r28v,earthquake
+us6000r287,2025-08-20T02:48:26.129000,33.1941,76.0704,65.875,4.1,"31 km ESE of Kishtwār, India",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r287,earthquake
+us6000r282,2025-08-20T01:53:31.231000,36.461,71.1191,157.614,4.0,"44 km SW of Ashkāsham, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r282,earthquake
+us6000r281,2025-08-20T01:37:19.838000,52.539,160.7866,10.0,5.0,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r281,earthquake
+us7000qwb1,2025-08-20T00:50:53.176000,50.3699,159.1178,10.0,4.3,"214 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwb1,earthquake
+us7000qwb0,2025-08-20T00:02:11.007000,18.5686,145.6814,214.148,4.2,"Pagan region, Northern Mariana Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwb0,earthquake
+us7000qvqq,2025-08-19T23:41:06.211000,54.6066,161.7234,35.0,4.3,"173 km SE of Atlasovo, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqq,earthquake
+us6000r27n,2025-08-19T23:31:37.726000,51.2776,160.4296,10.0,4.3,"230 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r27n,earthquake
+us6000r27f,2025-08-19T22:49:27.160000,-18.3541,-71.4343,56.74,4.3,"78 km S of Pacocha, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r27f,earthquake
+us6000r27e,2025-08-19T22:42:01.305000,51.0445,157.1213,70.239,4.6,"66 km SE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r27e,earthquake
+us7000qvqm,2025-08-19T22:32:53.425000,-24.7674,179.9098,525.928,4.3,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqm,earthquake
+us7000qvql,2025-08-19T22:20:23.966000,48.939,156.5067,10.0,4.3,"195 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvql,earthquake
+us7000qvqt,2025-08-19T22:13:48.712000,-15.3877,67.0483,10.0,4.5,Mid-Indian Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqt,earthquake
+us6000r27a,2025-08-19T22:10:38.058000,39.1944,28.1187,34.778,4.2,"7 km SW of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r27a,earthquake
+us7000qvqk,2025-08-19T22:07:36.154000,-15.4349,67.0469,10.0,4.4,Mid-Indian Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqk,earthquake
+us7000qvqj,2025-08-19T21:58:50.012000,-15.4175,67.3036,10.0,4.5,Mid-Indian Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqj,earthquake
+us7000qvqs,2025-08-19T21:40:05.928000,-20.7731,170.1451,148.283,4.2,"163 km SSE of Isangel, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqs,earthquake
+us6000r278,2025-08-19T21:38:00.474000,-15.3027,66.9258,10.0,5.0,Mid-Indian Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r278,earthquake
+us6000r276,2025-08-19T21:27:40.984000,-13.1696,167.1462,207.973,4.6,"89 km NNW of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r276,earthquake
+us7000qvqg,2025-08-19T20:38:28.175000,-35.368,53.6891,10.0,4.5,Southwest Indian Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqg,earthquake
+us7000qvqf,2025-08-19T20:25:13.941000,52.4294,160.5283,35.0,4.1,"146 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqf,earthquake
+us6000r26j,2025-08-19T19:41:10.749000,50.1236,158.8934,10.0,4.6,"206 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r26j,earthquake
+us6000r269,2025-08-19T19:12:53.318000,51.0019,159.7556,10.0,4.1,"233 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r269,earthquake
+us6000r25w,2025-08-19T18:50:30.398000,52.2138,160.3446,10.0,4.9,"149 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r25w,earthquake
+us7000qvqc,2025-08-19T18:08:40.378000,-11.7643,166.0075,62.322,4.0,"117 km SSE of Lata, Solomon Islands",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqc,earthquake
+us7000qvqp,2025-08-19T17:49:39.311000,-60.3142,-26.5721,35.0,4.5,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqp,earthquake
+us6000r22u,2025-08-19T17:33:14.436000,-62.122,164.6961,10.0,5.4,Balleny Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r22u,earthquake
+us7000qvqb,2025-08-19T17:20:06.303000,-6.4851,153.2283,10.0,4.5,"250 km W of Panguna, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqb,earthquake
+uu80114071,2025-08-19T17:14:53.020000,44.8078333333333,-110.859666666667,11.55,3.71,"22 km SSW of Mammoth, Wyoming",https://earthquake.usgs.gov/earthquakes/eventpage/uu80114071,earthquake
+us6000r22f,2025-08-19T16:49:14.399000,52.258,159.0781,81.611,4.1,"87 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r22f,earthquake
+us6000r22d,2025-08-19T16:43:17.976000,13.9145,120.8147,91.492,4.7,"1 km S of Calaca, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r22d,earthquake
+us6000r22b,2025-08-19T16:33:36.720000,-30.5669,-70.8145,81.833,4.1,"19 km NE of Monte Patria, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r22b,earthquake
+us7000qvqa,2025-08-19T16:14:47.675000,50.2242,158.2649,10.0,4.2,"159 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvqa,earthquake
+us7000qvq7,2025-08-19T15:10:48.190000,-0.8623,134.0695,26.063,4.4,"0 km E of Manokwari, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvq7,earthquake
+us6000r221,2025-08-19T14:41:18.463000,49.5041,155.5408,76.323,4.9,"136 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r221,earthquake
+us6000r222,2025-08-19T14:37:12.308000,-24.3451,-175.9641,10.0,5.4,south of Tonga,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r222,earthquake
+us6000r21p,2025-08-19T12:43:41.724000,38.45,73.6981,129.332,4.1,"38 km NW of Murghob, Tajikistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r21p,earthquake
+us6000r21l,2025-08-19T12:25:37.910000,48.1408,154.4573,40.274,4.5,Kuril Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r21l,earthquake
+us6000r216,2025-08-19T09:39:10.795000,-8.3468,119.7327,174.306,4.8,"23 km NW of Labuan Bajo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r216,earthquake
+us6000r213,2025-08-19T09:29:10.009000,-5.883,149.3334,99.962,4.8,"42 km NNW of Kandrian, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r213,earthquake
+us6000r20l,2025-08-19T08:50:15.986000,51.6012,159.7895,10.0,4.4,"175 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r20l,earthquake
+us6000r20j,2025-08-19T08:24:59.508000,54.5301,-159.8566,35.116,4.2,"98 km SSE of Sand Point, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r20j,earthquake
+us6000r20h,2025-08-19T08:05:39.440000,14.3815,-90.5566,188.205,4.6,"9 km ESE of San Vicente Pacaya, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r20h,earthquake
+us7000qvq2,2025-08-19T07:32:46.610000,28.0848,87.571,10.0,4.1,"76 km ENE of Lobuche, Nepal",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvq2,earthquake
+us7000qvpy,2025-08-19T06:29:05.678000,53.1689,-35.1398,10.0,4.5,Reykjanes Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvpy,earthquake
+us7000qvpz,2025-08-19T06:09:54.015000,51.7965,159.2496,35.0,4.4,"138 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvpz,earthquake
+us6000r201,2025-08-19T06:08:41.856000,-57.1288,-67.1967,10.0,5.2,"267 km SSE of Ushuaia, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r201,earthquake
+us7000qvpw,2025-08-19T05:39:58.013000,50.9168,160.3804,10.0,4.1,"262 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvpw,earthquake
+us6000r1zv,2025-08-19T05:19:50.990000,36.4913,70.8501,196.469,5.1,"41 km S of Jurm, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1zv,earthquake
+us7000qvpv,2025-08-19T04:59:17.326000,52.9149,159.3735,58.479,4.0,"52 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvpv,earthquake
+us7000qvq5,2025-08-19T04:38:17.581000,49.8427,158.0847,28.054,4.3,"167 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvq5,earthquake
+us7000qvps,2025-08-19T02:57:46.903000,-58.6924,-22.8409,10.0,4.4,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvps,earthquake
+us6000r1zc,2025-08-19T02:17:24.953000,48.423,-124.3434,33.916,3.8,"18 km N of Sekiu, Washington",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1zc,earthquake
+us6000r1z8,2025-08-19T01:26:07.648000,23.9869,121.7603,28.431,4.6,"15 km E of Hualien City, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1z8,earthquake
+us6000r1z9,2025-08-19T01:22:55.303000,52.7385,159.7381,49.707,4.2,"83 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1z9,earthquake
+us7000qvpn,2025-08-19T00:25:36.413000,-7.3597,120.1887,435.121,4.0,"130 km NNE of Labuan Bajo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvpn,earthquake
+us6000r1z2,2025-08-19T00:22:56.191000,-29.7113,-71.3402,41.074,4.5,"23 km NNW of La Serena, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1z2,earthquake
+us7000qvi8,2025-08-18T23:55:25.576000,50.4963,159.5782,10.0,4.2,"242 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvi8,earthquake
+us6000r1yq,2025-08-18T23:03:12.679000,-24.3985,-175.9925,35.0,5.6,south of Tonga,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1yq,earthquake
+us6000r1yj,2025-08-18T22:19:22.794000,42.033,140.5262,128.361,5.1,"20 km NW of Honchō, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1yj,earthquake
+us7000qvi5,2025-08-18T22:17:22.852000,32.1605,132.1476,35.0,4.3,"55 km E of Tsunō, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvi5,earthquake
+us6000r1y5,2025-08-18T20:38:11.193000,-7.3281,126.7221,398.062,4.7,"130 km NNE of Baukau, Timor Leste",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1y5,earthquake
+us6000r1xn,2025-08-18T19:55:46.611000,24.0724,121.8894,28.704,4.3,"30 km ENE of Hualien City, Taiwan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1xn,earthquake
+us6000r1xh,2025-08-18T19:38:28.511000,39.108,22.0358,20.037,4.3,"10 km SSW of Anávra, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1xh,earthquake
+us7000qvi0,2025-08-18T19:25:34.492000,-24.7777,179.6101,520.95,4.2,south of the Fiji Islands,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvi0,earthquake
+us6000r1x4,2025-08-18T18:41:18.434000,37.1759,69.6035,10.0,4.6,"14 km NE of Ārt Khwājah, Afghanistan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1x4,earthquake
+us6000r1x1,2025-08-18T18:22:28.423000,-44.4413,-80.2321,10.0,4.7,"Off the coast of Aisen, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1x1,earthquake
+us6000r1wz,2025-08-18T18:05:46.024000,1.063,125.5336,78.756,4.5,"61 km SE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1wz,earthquake
+us6000r1wg,2025-08-18T15:58:32.250000,32.3157,76.638,10.0,4.1,"23 km NNE of Pālampur, India",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1wg,earthquake
+us7000qvhw,2025-08-18T15:25:20.793000,52.8242,159.4674,60.524,4.1,"62 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhw,earthquake
+us6000r1w6,2025-08-18T15:15:40.747000,1.0561,125.534,72.012,4.6,"62 km SE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1w6,earthquake
+us6000r1w5,2025-08-18T15:10:57.407000,49.9094,157.3663,26.722,4.6,"122 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1w5,earthquake
+us6000r1vl,2025-08-18T12:47:03.040000,-15.8161,-72.4661,98.716,4.8,"10 km SSW of Uñon, Peru",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1vl,earthquake
+us7000qvhr,2025-08-18T12:31:36.366000,49.9213,159.502,10.0,4.3,"254 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhr,earthquake
+us6000r1vh,2025-08-18T12:11:51.679000,35.2719,23.275,44.596,4.3,"37 km W of Palaióchora, Greece",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1vh,earthquake
+us6000r1ve,2025-08-18T11:56:57.215000,13.0031,-89.7542,39.363,4.3,"65 km S of Acajutla, El Salvador",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ve,earthquake
+us6000r1vf,2025-08-18T11:55:39.233000,51.4566,159.619,35.0,4.9,"183 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1vf,earthquake
+us7000qvhy,2025-08-18T11:44:49.479000,50.6143,159.0116,10.0,4.1,"201 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhy,earthquake
+us6000r1vc,2025-08-18T11:43:52.684000,-12.5003,125.7192,10.0,4.7,south of Timor,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1vc,earthquake
+us6000r1v7,2025-08-18T11:11:19.274000,-6.6149,129.9367,145.501,4.5,Banda Sea,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1v7,earthquake
+us6000r1v4,2025-08-18T10:45:19.221000,1.3561,126.9119,62.513,4.2,"81 km NW of Ternate, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1v4,earthquake
+us6000r1v3,2025-08-18T10:25:40.671000,51.9769,161.8628,10.0,4.2,"250 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1v3,earthquake
+us6000r1uy,2025-08-18T10:12:48.188000,51.274,159.5208,10.0,5.2,"199 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1uy,earthquake
+us7000qvhl,2025-08-18T10:06:59.604000,51.4645,159.8388,10.0,4.3,"190 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhl,earthquake
+us6000r1ux,2025-08-18T10:05:18.390000,1.0972,125.5495,73.06,4.9,"60 km SE of Bitung, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ux,earthquake
+us7000qvhv,2025-08-18T09:18:29.297000,50.8781,-178.9132,23.863,3.9,"193 km SW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhv,earthquake
+us6000r1un,2025-08-18T08:30:49.468000,3.1627,124.4304,321.44,4.5,"191 km NNW of Manado, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1un,earthquake
+us6000r1um,2025-08-18T08:26:28.343000,39.262,27.9697,10.0,4.6,"18 km W of Sındırgı, Turkey",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1um,earthquake
+us7000qvhs,2025-08-18T07:52:00.569000,-58.9567,-26.0934,102.946,4.5,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhs,earthquake
+us6000r1uh,2025-08-18T07:48:43.240000,-15.2787,-173.3397,10.0,5.2,"89 km NNE of Hihifo, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1uh,earthquake
+us6000r1ud,2025-08-18T07:10:12.806000,-44.7541,-79.9408,10.0,5.6,"Off the coast of Aisen, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ud,earthquake
+us7000qvhh,2025-08-18T06:39:32.542000,26.3136,92.7974,35.0,4.3,"29 km ENE of Rahā, India",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhh,earthquake
+us6000r1u8,2025-08-18T06:10:41.360000,51.0492,-178.8602,33.167,4.3,"179 km WSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1u8,earthquake
+us6000r1u2,2025-08-18T05:58:56.721000,14.2758,-90.9774,102.461,4.3,"6 km NNW of La Democracia, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1u2,earthquake
+us6000r1u0,2025-08-18T04:44:24.344000,2.7019,127.1005,81.019,4.5,"147 km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1u0,earthquake
+us7000qvhf,2025-08-18T04:05:48.300000,51.7645,160.1686,10.0,4.1,"176 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhf,earthquake
+us6000r1tt,2025-08-18T03:30:57.789000,51.3518,159.7018,13.297,4.6,"196 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1tt,earthquake
+us6000r1t1,2025-08-18T02:52:48.016000,49.301,155.2481,74.986,4.8,"165 km SSW of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1t1,earthquake
+us7000qvhd,2025-08-18T02:29:43.728000,51.9318,160.3627,10.0,4.2,"172 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhd,earthquake
+us7000qvhc,2025-08-18T02:19:29.433000,50.7723,157.6973,47.321,4.2,"111 km E of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhc,earthquake
+us7000qvhb,2025-08-18T02:14:53.261000,-7.8586,114.0251,10.0,4.3,"16 km SSW of Panji, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvhb,earthquake
+us6000r1ss,2025-08-18T02:13:21.235000,-17.0862,-174.0552,131.645,4.4,"128 km SSW of Hihifo, Tonga",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ss,earthquake
+us6000r1sr,2025-08-18T02:09:33.049000,49.8779,156.0447,80.031,4.9,"88 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1sr,earthquake
+us7000qupb,2025-08-18T01:53:16.309000,33.9463,87.78,10.0,4.2,western Xizang,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qupb,earthquake
+us7000qvha,2025-08-18T01:13:16.513000,-14.1679,166.8947,97.004,4.2,"77 km WSW of Sola, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvha,earthquake
+us7000qvh8,2025-08-18T01:04:45.799000,52.0561,160.3545,22.19,4.2,"162 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvh8,earthquake
+us7000qvh9,2025-08-18T00:51:56.225000,50.0621,156.9338,35.0,4.5,"89 km SE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvh9,earthquake
+us7000qvh6,2025-08-18T00:32:01.035000,-57.0789,-25.1358,10.0,4.5,South Sandwich Islands region,https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvh6,earthquake
+us7000qvh7,2025-08-18T00:30:26.330000,51.7967,159.9962,10.0,4.2,"166 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvh7,earthquake
+us6000r1sh,2025-08-18T00:05:55.863000,-30.1172,-177.6754,35.0,4.6,"Kermadec Islands, New Zealand",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1sh,earthquake
+us7000qvgg,2025-08-17T23:34:04.687000,50.2323,159.6843,10.0,4.3,"257 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvgg,earthquake
+us6000r1se,2025-08-17T23:33:27.668000,34.1184,137.7707,10.0,4.8,"64 km S of Hamamatsu, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1se,earthquake
+us7000qvgf,2025-08-17T23:12:32.990000,2.4729,126.9288,57.806,4.2,"145 km NW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvgf,earthquake
+us7000qvgi,2025-08-17T23:12:27.191000,51.6796,160.5155,10.0,4.3,"200 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvgi,earthquake
+pr2025229001,2025-08-17T22:39:33.490000,18.9015,-65.3213,51.0,3.52,"66 km N of Culebra, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025229001,earthquake
+us6000r1s1,2025-08-17T22:31:26.322000,13.2804,-90.9409,35.0,4.3,"72 km S of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1s1,earthquake
+pr2025229000,2025-08-17T22:29:29.780000,18.9908,-65.332,37.0,3.52,"76 km N of Culebra, Puerto Rico",https://earthquake.usgs.gov/earthquakes/eventpage/pr2025229000,earthquake
+us7000qvgd,2025-08-17T21:41:20.907000,51.5052,161.2368,10.0,4.2,"248 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvgd,earthquake
+us6000r1rx,2025-08-17T21:41:13.368000,-19.2459,-69.0341,115.609,4.2,"41 km W of Colchane, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1rx,earthquake
+us6000r1ru,2025-08-17T21:20:16.838000,-3.1532,146.7554,10.0,4.4,"136 km SSW of Lorengau, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ru,earthquake
+us7000qvgh,2025-08-17T21:10:26.056000,51.3612,-178.7767,26.587,3.7,"158 km WSW of Adak, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvgh,earthquake
+us7000qvgc,2025-08-17T21:01:47.580000,50.2185,156.1358,64.462,4.0,"50 km S of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvgc,earthquake
+us6000r1rl,2025-08-17T19:22:41.123000,34.329,7.478,10.0,4.5,"42 km W of Chebika, Tunisia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1rl,earthquake
+us6000r1rj,2025-08-17T19:11:01.981000,34.3778,7.4276,10.0,5.1,"47 km W of Chebika, Tunisia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1rj,earthquake
+us6000r1ri,2025-08-17T19:09:40.604000,-22.6794,-66.311,241.728,5.0,"63 km W of Abra Pampa, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1ri,earthquake
+us6000r1rf,2025-08-17T18:35:39.334000,-6.2054,151.528,10.0,5.0,"170 km ESE of Kimbe, Papua New Guinea",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1rf,earthquake
+us6000r1re,2025-08-17T18:30:05.958000,-21.7185,-179.4396,598.632,4.4,Fiji region,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1re,earthquake
+us6000r1rb,2025-08-17T18:19:38.060000,14.3101,120.5221,147.677,4.5,"14 km SSE of Mariveles, Philippines",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1rb,earthquake
+us6000r1r9,2025-08-17T17:39:39.559000,52.8071,160.4153,35.0,4.2,"123 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1r9,earthquake
+us7000qvg5,2025-08-17T17:10:17.070000,-1.0093,99.6812,57.856,4.2,"65 km SW of Pariaman, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvg5,earthquake
+us6000r1qu,2025-08-17T15:31:19.979000,2.0781,127.0014,33.991,5.0,"118 km WNW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1qu,earthquake
+us6000r1qp,2025-08-17T15:03:10.975000,2.1415,127.1444,10.0,5.5,"106 km WNW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1qp,earthquake
+us6000r1qk,2025-08-17T14:46:30.026000,51.6891,-173.4391,35.0,3.9,"76 km SE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1qk,earthquake
+us7000qvfy,2025-08-17T14:27:09.608000,29.2462,130.5218,35.0,4.4,"109 km S of Koshima, Japan",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfy,earthquake
+us6000r1qf,2025-08-17T14:17:02.287000,52.349,159.785,67.488,4.2,"111 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1qf,earthquake
+us6000r1qb,2025-08-17T13:59:19.366000,50.278,159.5416,10.0,4.5,"246 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1qb,earthquake
+us7000qvg6,2025-08-17T13:44:27.236000,56.1639,163.2739,10.0,4.1,"49 km E of Ust’-Kamchatsk Staryy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvg6,earthquake
+us7000qvfw,2025-08-17T13:24:22.442000,51.4546,159.6703,21.068,4.3,"185 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfw,earthquake
+us6000r1q5,2025-08-17T11:58:48.152000,52.0776,172.5779,10.0,4.3,"95 km SSW of Attu Station, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1q5,earthquake
+us7000qvfz,2025-08-17T11:26:37.454000,51.7049,-173.5296,55.873,3.8,"71 km SE of Atka, Alaska",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfz,earthquake
+us6000r1q2,2025-08-17T10:48:13.665000,-57.39,-66.929,10.0,4.6,"299 km SSE of Ushuaia, Argentina",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1q2,earthquake
+us7000qvfq,2025-08-17T10:27:34.384000,51.3387,159.8203,10.0,4.4,"201 km SSE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfq,earthquake
+us6000r1pw,2025-08-17T09:01:20.020000,-47.8478,115.9885,10.0,4.9,western Indian-Antarctic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1pw,earthquake
+us6000r1pr,2025-08-17T07:58:30.245000,2.0384,126.9287,10.0,4.6,"125 km WNW of Tobelo, Indonesia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1pr,earthquake
+us6000r1pq,2025-08-17T07:55:58.951000,25.8887,-110.2764,10.0,4.9,"94 km W of Las Grullas Margen Derecha, Mexico",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1pq,earthquake
+us6000r1pe,2025-08-17T06:27:54.870000,13.3906,-90.9805,41.876,4.1,"61 km SSW of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1pe,earthquake
+us7000qvfk,2025-08-17T06:26:21.187000,-14.8081,167.9903,10.0,4.6,"102 km ENE of Port-Olry, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfk,earthquake
+us7000qvfr,2025-08-17T06:13:28.034000,51.133,157.7814,71.682,4.0,"97 km ESE of Ozernovskiy, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfr,earthquake
+us6000r1p8,2025-08-17T05:59:51.245000,13.1891,-91.1097,10.0,5.4,"87 km SSW of Puerto San José, Guatemala",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1p8,earthquake
+us6000r1p2,2025-08-17T05:08:23.770000,-29.8654,-71.6231,38.429,4.2,"29 km WNW of Coquimbo, Chile",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1p2,earthquake
+us6000r1p3,2025-08-17T05:06:25.755000,-14.9069,167.3469,134.987,4.9,"33 km ENE of Port-Olry, Vanuatu",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1p3,earthquake
+us7000qvfi,2025-08-17T03:40:43.118000,49.9506,159.0301,10.0,4.3,"221 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfi,earthquake
+us6000r1nw,2025-08-17T03:32:40.358000,52.686,159.214,62.336,4.5,"57 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1nw,earthquake
+us6000r1nu,2025-08-17T03:12:08.122000,52.2444,160.6286,10.0,4.5,"163 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1nu,earthquake
+us7000qvfm,2025-08-17T03:00:10.969000,51.5311,160.4117,10.0,4.4,"207 km SE of Vilyuchinsk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfm,earthquake
+us7000qvff,2025-08-17T02:18:02.108000,50.1627,158.7531,10.0,4.4,"195 km ESE of Severo-Kuril’sk, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvff,earthquake
+us6000r1nt,2025-08-17T01:54:09.202000,-48.8913,-8.8268,10.0,4.6,southern Mid-Atlantic Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1nt,earthquake
+us7000qvfd,2025-08-17T01:15:58.132000,-21.8729,169.5863,10.0,4.2,"180 km E of Tadine, New Caledonia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfd,earthquake
+us7000qvfl,2025-08-17T01:12:09.354000,52.8088,160.9096,10.0,4.2,"156 km ESE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfl,earthquake
+us7000qvfc,2025-08-17T00:25:20.016000,51.8133,161.2857,10.0,4.3,"228 km SE of Petropavlovsk-Kamchatsky, Russia",https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvfc,earthquake
+us6000r1nj,2025-08-17T00:24:10.330000,4.1814,62.7163,10.0,4.9,Carlsberg Ridge,https://earthquake.usgs.gov/earthquakes/eventpage/us6000r1nj,earthquake
