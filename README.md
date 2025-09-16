@@ -6,7 +6,6 @@ This project collects real-time earthquake data from the USGS (United States Geo
 ## Folder Structure
 
 Earthquake\_Data\_Collection\_Project/
-│
 ├── data/                                          # Collected CSV & JSON files
 ├── output/                                        # Generated plot images
 |── collect_earthquakes.py                         # Script to fetch and save data
