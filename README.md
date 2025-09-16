@@ -5,13 +5,7 @@ This project collects real-time earthquake data from the USGS (United States Geo
 
 ## Folder Structure
 
-Earthquake\_Data\_Collection\_Project/
-├── data/                                          # Collected CSV & JSON files
-├── output/                                        # Generated plot images
-|── collect_earthquakes.py                         # Script to fetch and save data
-|── preview.py                                     # Script to visualize earthquake locations
-├── requirements.txt                               # Python dependencies
-├── README.md                                      # Project documentation
+Earthquake\_Data\_Collection\_Project/                                                                                                                  ├── data/                                          # Collected CSV & JSON files                                                                          ├── output/                                        # Generated plot images                                                                                 |── collect_earthquakes.py                         # Script to fetch and save data                                                                         |── preview.py                                     # Script to visualize earthquake locations                                                            ├── requirements.txt                               # Python dependencies                                                                                ├── README.md                                      # Project documentation
 
 
 ## Features
@@ -29,27 +23,28 @@ Earthquake\_Data\_Collection\_Project/
 ## How to Run
 
 1. **Set up a virtual environment** (optional but recommended)
+   
 # bash
 python -m venv venv
 source venv/bin/activate
 # Windows
 venv\Scripts\activate
 
-3. **Install dependencies**
-
-bash
+2. **Install dependencies**
+   
+# bash
 pip install -r requirements.txt
 
 3. **Run the data collection script**
-
-bash
+   
+# bash
 python collect_earthquakes.py
 
 * This will create the CSV and JSON files in the `data/` folder.
 
 4. **Run the visualization script**
 
-bash
+# bash
 python preview_plot.py
 
 * This will generate a scatter plot in the `output/` folder and display it.
