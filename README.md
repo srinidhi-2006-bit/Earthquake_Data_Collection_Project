@@ -28,33 +28,34 @@ Earthquake_Data_Collection_Project/
 ## How to Run
 
 1. **Set up a virtual environment** (optional but recommended)
-   
+```   
 #bash
 python -m venv venv
 source venv/bin/activate
 #Windows
 venv\Scripts\activate
-
+```
 2. **Install dependencies**
-   
+```  
 #bash
 pip install -r requirements.txt
-
+```
 3. **Run the data collection script**
-   
+```
 #bash
 python collect_earthquakes.py
-
+```
 * This will create the CSV and JSON files in the `data/` folder.
 
 4. **Run the visualization script**
-
+```
 #bash
 python preview_plot.py
-
+```
 * This will generate a scatter plot in the `output/` folder and display it.
 
 ## Output
-
+```
 * **Data**: `data/earthquakes_YYYY-MM-DD_to_YYYY-MM-DD.csv` and `.json`
 * **Plot**: `output/earthquakes_plot.png`
+```
