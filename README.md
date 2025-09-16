@@ -4,7 +4,7 @@
 This project collects real-time earthquake data from the USGS (United States Geological Survey) public API for the last 30 days. The data is saved in both CSV and GeoJSON formats for further analysis. A quick visualization scatter plot is also generated to show earthquake locations worldwide.
 
 ## Folder Structure
-
+```
 Earthquake_Data_Collection_Project/
 ├── data/ # Collected CSV & JSON files
 ├── output/ # Generated plot images
@@ -12,7 +12,7 @@ Earthquake_Data_Collection_Project/
 ├── preview.py # Script to visualize earthquake locations
 ├── requirements.txt # Python dependencies
 └── README.md # Project documentation
-
+```
 ## Features
 - Fetches last 30 days of earthquake data with magnitude ≥ 3.5
 - Saves data in **CSV** and **JSON** formats
