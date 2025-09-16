@@ -7,12 +7,12 @@ This project collects real-time earthquake data from the USGS (United States Geo
 
 Earthquake\_Data\_Collection\_Project/
 │
-├── data/                          # Collected CSV & JSON files
-├── output/                        # Generated plot images
-|── collect_earthquakes.py         # Script to fetch and save data
-|── preview.py                     # Script to visualize earthquake locations
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project documentation
+├── data/                                          # Collected CSV & JSON files
+├── output/                                        # Generated plot images
+|── collect_earthquakes.py                         # Script to fetch and save data
+|── preview.py                                     # Script to visualize earthquake locations
+├── requirements.txt                               # Python dependencies
+├── README.md                                      # Project documentation
 
 
 ## Features
