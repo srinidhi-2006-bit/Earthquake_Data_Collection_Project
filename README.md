@@ -5,8 +5,13 @@ This project collects real-time earthquake data from the USGS (United States Geo
 
 ## Folder Structure
 
-Earthquake\_Data\_Collection\_Project/                                                                                                                  ├── data/                                          # Collected CSV & JSON files                                                                          ├── output/                                        # Generated plot images                                                                                 |── collect_earthquakes.py                         # Script to fetch and save data                                                                         |── preview.py                                     # Script to visualize earthquake locations                                                            ├── requirements.txt                               # Python dependencies                                                                                ├── README.md                                      # Project documentation
-
+Earthquake_Data_Collection_Project/
+├── data/ # Collected CSV & JSON files
+├── output/ # Generated plot images
+├── collect_earthquakes.py # Script to fetch and save data
+├── preview.py # Script to visualize earthquake locations
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 ## Features
 - Fetches last 30 days of earthquake data with magnitude ≥ 3.5
